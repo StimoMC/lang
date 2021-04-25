@@ -49,7 +49,7 @@
 	"ui.title.purchase.newStick": "§cBuy a Stick",
 	
 	"ui.text.playersPerTeam": "§2Players per Team",
-	"ui.text.stats.getdown": "§7Runden: §e#0#\n§7Kills: §e#1#\n§7Deaths: §e#2#\n§7K / D: §e#3#\n§7Wins: §e#4#\n§7Loses: §e#5#\n§7Win Chance: §e#6#",
+	"ui.text.stats.getdown": "§7Rounds: §e#0#\n§7Kills: §e#1#\n§7Deaths: §e#2#\n§7K / D: §e#3#\n§7Wins: §e#4#\n§7Loses: §e#5#\n§7Win Chance: §e#6#",
 	
 	"ui.text.voteForDrops": "§7Item Drops",
 	"ui.text.voteForGold": "§6Gold Voting",
