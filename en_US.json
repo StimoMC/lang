@@ -127,7 +127,7 @@
 	"message.addedCoins": "{PREFIX} §aYou have the player §6#0# §e#1# Coins §agiven§7!",
 	"message.removedCoins": "{PREFIX} §cYou have the player §6#0# §e#1# Coins §cremoved§7!",
 	
-	"message.voteReward": "{PREFIX} §eYou got §97 days §bVIP §ebecause you have 30 or more votes.\n§gHave fun with it§7.",
+	"message.voteReward": "{PREFIX} §eYou got §97 days §dLegend §ebecause you have 28 or more votes.\n§gHave fun with it§7.",
 	"message.playerNotExists": "{PREFIX} §cThis player don't exists§7.",
     "message.notEnoughCoins": "{PREFIX} §cNot enough coins§7.",
 	
