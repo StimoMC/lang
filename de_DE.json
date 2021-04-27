@@ -158,7 +158,7 @@
 	"message.stickWasSuccessfulChanged": "{PREFIX} §aDein Stick wurde erfolgreich geändert§8.",
 	"message.stickWasNotChanged": "{PREFIX} §cDein Stick wurde nicht geändert§8.",
 	
-	"message.killstreak": "{PREFIX} §eDer Spieler §r#0# §ehat einen Killstreak von §d#1# §eerreicht§8.",
+	"message.killstreak": "{PREFIX} §eDer Spieler §r#1# §ehat einen Killstreak von §d#0# §eerreicht§8.",
 	
 	"message.duelPlayerLeft": "{PREFIX} §cDer Spieler §r#0# §chat die Runde verlassen§8.",
 	"message.endGame": "{PREFIX} §cDas Spiel wurde beendet§8.",
