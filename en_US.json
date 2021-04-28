@@ -85,6 +85,10 @@
 	
 	"ui.text.playerHider": "{PREFIX} §cHide §7or §ashow §7all §ePlayers§7!",
 	"ui.text.noPlayersFound": "§cNo players found§7.",
+		
+	"ui.text.playerHider": "{PREFIX} §cHide §7or §ashow §7all §ePlayers§7!",
+	"ui.error.clans.alreadyExists": "§cThis §eClan§c already exists§7.",
+	"ui.text.noPlayersFound": "§cNo players found§7.",	
 	
 	"ui.button.close": "§cClose",
 	"ui.button.accept": "§aAccept",
