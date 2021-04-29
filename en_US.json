@@ -128,7 +128,7 @@
 		
 	"ui.button.clans.search": "§7Search an §cClan",
 	"ui.button.clans.create": "§7Create an §cClan",
-	"ui.button.clans.invite": "§7Invite a §eSpieler",
+	"ui.button.clans.invite": "§7Invite a §ePlayer",
 	"ui.button.clans.requests": "§7Invites §8( §e#0#§8 )",
 	"ui.button.clans.info": "§7Clan Info",
 	"ui.button.clans.manage": "§7Manage your §eClan",
