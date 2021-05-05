@@ -91,7 +91,8 @@
 	"ui.text.stats.getdown": "§7Runden: §e#0#\n§7Kills: §e#1#\n§7Tode: §e#2#\n§7K / D: §e#3#\n§7Gewonnene Spiele: §e#4#\n§7Verlorene Spiele: §e#5#\n§7Gewinn Chance: §e#6#",
 	
 	"ui.error.clans.alreadyExists": "§cDieser §eClan§c exestiert bereits§7.",
-	"ui.text.noPlayersFound": "§cEs wurden keine Spieler gefunden§7.",	
+	"ui.text.noPlayersFound": "§cEs wurden keine Spieler gefunden§7.",
+	"ui.text.stats.bedwars": "§eRunden: §9#0#\n§eKills: §9#1#\n§eTode: §9#2#\n§eK/D: §9#3#\n§eGewonnene Spiele: §9#4#\n§eVerloren: §9#5#\n§eZerstörte Betten: §9#6#\n\n§eWin-Chance: §9#7#",	
 		
 	"ui.button.close": "§cSchließen",
 	"ui.button.accept": "§aAkzeptieren",
