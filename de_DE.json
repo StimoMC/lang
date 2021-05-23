@@ -256,6 +256,11 @@
 	"message.playOnMap": "{PREFIX} §aEs wird auf der Map §b#0#§a gespielt§8.",
 	"message.gameStarted": "§l§a» §fDas Spiel hat gestartet",
 	
+	"message.flyEnabled": "{PREFIX} §aDu kannst nun §efliegen§8.",
+	"message.flyDisabled": "{PREFIX} §cDu kanns nun nicht mehr §efliegen§8.",
+	"message.needHigherRank": "{PREFIX} §cDu benötigst einen höheren Rang um dieses Feature zu benutzen§8.",
+	"message.activateParticle": "{PREFIX} §aDu hast diese Partikel aktiviert§8.",
+	
 	"no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
       
     "lobby.buyRank.alreadyHasRank": "{PREFIX} §cDu hast diesen §eRang§c bereits§7.",
