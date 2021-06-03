@@ -78,6 +78,8 @@
 	"ui.title.purchase.newStick": "§cKaufe einen Stick",
 	"ui.title.enchanting": "§5Verzaubern",
 	
+	"ui.title.buyRank": "§7Bestätige deinen §eKauf",
+	
 	"ui.text.playersPerTeam": "§2Spieler pro Team",
 	
 	"ui.text.purchase": "§cKaufe dir hier sachen für eine gute BedWars runde§8.\n§f#0# ",
@@ -122,31 +124,17 @@
 	
 	"ui.button.showPlayers": "§aZeige alle Spieler",
 	"ui.button.hidePlayers": "§cVerstecke alle Spieler",
-	
-	"ui.button.show": "§aZeige alle §eSpieler",
-	"ui.button.hide": "§4Verstecke alle §eSpieler",
 	"ui.button.particle": "§dPartikel",
 	"ui.button.fly": "§eFly",
-    	"ui.button.buyRanks": "§eKaufe einen §cRank",
+    "ui.button.buyRanks": "§eKaufe einen §cRank",
 	"ui.button.enableFly": "§aAktiviere §eFly",
 	"ui.button.disableFly": "§cDeaktiviere §eFly",
-		
-	"ui.button.clans.search": "§7Suche einen §cClan",
-	"ui.button.clans.create": "§7Erstelle einen §cClan",
-	"ui.button.clans.invite": "§7Invite einen §eSpieler",
-	"ui.button.clans.requests": "§7Anfragen §8( §e#0#§8 )",
-	"ui.button.clans.info": "§7Clan Info",
-	"ui.button.clans.manage": "§7Verwalte deinen §eClan",
-	"ui.button.clans.leave": "§7Verlasse deinen §eClan",
 	
-	"ui.button.clans.manage.image": "§aWähle ein §eBild§a aus§7.",
-	"ui.button.clans.manage.tag_color": "§aWähle eine §eTag§7-§eFarbe",
-	"ui.button.clans.manage.clam_color": "§aWähle eine §eKlammer§7-§eFarbe",
-	"ui.button.clans.manage.members": "§dMitglieder",
-	"ui.button.clans.manage.delete": "§4Lösche den Clan",	
-	
-	"ui.content.gadgetFly": "{PREFIX} §eAktiviere den §aFlug§7-§aModus§7!",
 	"ui.content.selectGadget": "§eWähle ein §5Gadget§e aus§7!",
+	"ui.content.fly": "§fAktiviere oder Deaktiviere den Flug modus",
+	
+    "ui.content.confirmPremium": "§7Die rechte für den §6Premium Rang§7:\n\n§8- §eDu kannst in der §bLobby §efliegen\n§8- §eDu besitzt alle §cPartikel §ein der §bLobby\n§8- §eDu kannst dich §dNicken\n\n§7Kosten§8:§e 30.000 Coins",
+	"ui.content.confirmVIP": "§7Die rechte für den §bVIP Rang§7:\n\n§8- §eDu kannst MiniGames Starten\n§8- §eDu kannst eine Gruppe (Premium) für deinen Nickname auswählen\n§8- §eDu kannst JoinMe's erstellen\n§8- §eAlle Rechte des §6Premium§7-§6Rangs\n\n§7Kosten§8: §e150.000 Coins",
 	
 	"ui.toggle.onOff": "§aAn §8/ §4Aus",
 	
@@ -269,15 +257,11 @@
 	"message.sizeNormal": "{PREFIX} §cDu bist nun §fnormal§8.",
 	"message.sizeBig": "{PREFIX} §cDu bist nun §fgroß§8.",
 	
+	"message.alreadyHasRank": "{PREFIX} §cDu hast diesen §eRang§c bereits§7.",
+	"message.rankBought": "{PREFIX} §aDu hast dir den Rank #0# §agekauft§7!",
+	"message.abort": "{PREFIX} §cDu hast den Vorgang abgebrochen§7!",
+	
 	"no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
-      
-    "lobby.buyRank.alreadyHasRank": "{PREFIX} §cDu hast diesen §eRang§c bereits§7.",
-      
-    "lobby.title.confirm.buyRank": "§7Bestätige deinen §eKauf",
-    "lobby.rank.bought": "{PREFIX} §aDu hast dir den Rank #0# §agekauft§7!",
-    "lobby.rank.buy.abort": "{PREFIX} §cDu hast den Kauf abgebrochen§7!",
-    "lobby.ui.content.confirm.Premium": "§7Die rechte für den §6Premium Rang§7:\n\n§8- §eDu kannst in der §bLobby §efliegen\n§8- §eDu besitzt alle §cPartikel §ein der §bLobby\n§8- §eDu kannst dich §dNicken\n\n§7Kosten§8:§e 30.000 Coins",
-	"lobby.ui.content.confirm.VIP": "§7Die rechte für den §bVIP Rang§7:\n\n§8- §eDu kannst MiniGames Starten\n§8- §eDu kannst eine Gruppe (Premium) für deinen Nickname auswählen\n§8- §eDu kannst JoinMe's erstellen\n§8- §eAlle Rechte des §6Premium§7-§6Rangs\n\n§7Kosten§8: §e150.000 Coins",
 	
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cDu kannst §e#0#§c nicht bannen§7!",
 	"securitysystem.banWasSuccessfull": "{PREFIX} §aDu hast §e#0# §awegen§e #1#§a gebannt§7!",

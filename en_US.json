@@ -77,6 +77,8 @@
 
 	"ui.title.purchase.newStick": "§cBuy a Stick",
 	
+	"ui.title.buyRank": "§cConfirm your §epurchase",
+	
 	"ui.text.playersPerTeam": "§2Players per Team",
 	"ui.text.stats.getdown": "§7Rounds: §e#0#\n§7Kills: §e#1#\n§7Deaths: §e#2#\n§7K / D: §e#3#\n§7Wins: §e#4#\n§7Loses: §e#5#\n§7Win Chance: §e#6#",
 	
@@ -118,31 +120,14 @@
 	
 	"ui.button.showPlayers": "§aShow all Players",
 	"ui.button.hidePlayers": "§cHide all Players",
-	
-	"ui.button.show": "§aShow all §ePlayers",
-	"ui.button.hide": "§4Hide all §ePlayers",
-	"ui.button.particle": "§dParticles",
-	"ui.button.fly": "§eFly",
-    	"ui.button.buyRanks": "§eBuy an §cRank",
 	"ui.button.enableFly": "§aEnable §eFly",
 	"ui.button.disableFly": "§cDisable §eFly",
-		
-	"ui.button.clans.search": "§7Search an §cClan",
-	"ui.button.clans.create": "§7Create an §cClan",
-	"ui.button.clans.invite": "§7Invite a §ePlayer",
-	"ui.button.clans.requests": "§7Invites §8( §e#0#§8 )",
-	"ui.button.clans.info": "§7Clan Info",
-	"ui.button.clans.manage": "§7Manage your §eClan",
-	"ui.button.clans.leave": "§7Leave your §eClan",
 	
-	"ui.button.clans.manage.image": "§aSelect an §eImage§7.",
-	"ui.button.clans.manage.tag_color": "§aSelect an §eTag§7-§eColor",
-	"ui.button.clans.manage.clam_color": "§aSelect an §eClam§7-§eColor",
-	"ui.button.clans.manage.members": "§dMembers",
-	"ui.button.clans.manage.delete": "§4Delete your Clan",	
-	
-	"ui.content.gadgetFly": "{PREFIX} §eActivate the §aFly§7-§aMode§7!",
 	"ui.content.selectGadget": "§eSelect an §5Gadget§e§7!",
+	"ui.content.fly": "§fEnable or Disable the Fly mode",
+	
+	"ui.content.confirmPremium": "§7Rights for §6Premium Rank§7:\n\n§8- §eYou can §bFly in the §bLobby\n§8- §eYou own all §cParticles §in the §bLobby\n§8- §eYou can use the §dNick §eCommand\n\n§7Cost§8: §e30,000 Coins",
+	"ui.content.confirmVIP": "§7The rights for the §bVIP rank§7:\n\n§8- §eYou can start MiniGames\n§8- §eYou can choose a group (Premium) for your nickname\n§8- §eYou can create JoinMe's\n§8- §eAll the rights of the §6Premium§7-§6Rank\n\n§7Cost§8: §e150.000 Coins",
 	
 	"ui.toggle.onOff": "§aOn §8/ §4Off",
 	
@@ -156,8 +141,8 @@
 	
 	"message.playerNotFound": "{PREFIX} §cThis player was not found§8.",
 	
-	"message.lobby.hideAll": "{PREFIX} §cAll §ePlayers§c are now §einvisible§7.",
-	"message.lobby.showAll": "{PREFIX} §aAll §ePlayers§a are now §evisible§7.",
+	"message.hideAll": "{PREFIX} §cAll §ePlayers§c are now §einvisible§7.",
+	"message.showAll": "{PREFIX} §aAll §ePlayers§a are now §evisible§7.",
 	
 	"message.alreadyInTeam": "{PREFIX} §cYou are already in this §dTeam§8.",
 	"message.teamIsFull": "{PREFIX} §cThis §dTeam§c is already full§8.",
@@ -259,15 +244,11 @@
 	"message.sizeNormal": "{PREFIX} §cYou are now §fnormal§8.",
 	"message.sizeBig": "{PREFIX} §cYou are now §fbig§8.",
 	
+	"message.alreadyHasRank": "{PREFIX} §cYou have already this §eRank§7.",
+	"message.rankBought": "{PREFIX} §aYou have the rank #0# §asuccessfully bought§7!",
+	"message.abort": "{PREFIX} §cYou have cancelled the process§7.",
+	
 	"no.perms": "§cYou don't have the permissions to do this§7!",
-      
-    "lobby.buyRank.alreadyHasRank": "{PREFIX} §cYou have already this §eRank§7.",
-      
-    "lobby.title.confirm.buyRank": "§cConfirm your §epurchase",
-    "lobby.rank.bought": "{PREFIX} §aYou have the rank #0# §asuccessfully bought§7!",
-    "lobby.rank.buy.abort": "{PREFIX} §cYou have canceled the purchase§7.",
-    "lobby.ui.content.confirm.Premium": "§7Rights for §6Premium Rank§7:\n\n§8- §eYou can §bFly in the §bLobby\n§8- §eYou own all §cParticles §in the §bLobby\n§8- §eYou can use the §dNick §eCommand\n\n§7Cost§8: §e30,000 Coins",
-	"lobby.ui.content.confirm.VIP": "§7The rights for the §bVIP rank§7:\n\n§8- §eYou can start MiniGames\n§8- §eYou can choose a group (Premium) for your nickname\n§8- §eYou can create JoinMe's\n§8- §eAll the rights of the §6Premium§7-§6Rank\n\n§7Cost§8: §e150.000 Coins",
 	
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cYou can't ban §e#0#§7!",
 	"securitysystem.banWasSuccessfull": "{PREFIX} §aYou have banned §e#0# §abecasue of §e#1#§7!",
