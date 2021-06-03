@@ -194,7 +194,8 @@
 	"message.cannotDestroyOwnBed": "{PREFIX} §cDu kannst dein eigenes Bett nicht abbauen§8.",
 	
 	"message.challengedBy": "{PREFIX} §aDu wurdest von §r#0# §aherausgefordert§8.",
-	"mesaage.unChallengedBy": "{PREFIX} §r#0# §chat seine §eHerausforderung §czurückgezogen§8.",
+	"message.unChallengedBy": "{PREFIX} §r#0# §chat seine §eHerausforderung §czurückgezogen§8.",
+	"message.unChallenged": "{PREFIX} §cDu hast deine Herausforderung an §r#0# §czurückgezogen§8.",
 	
 	"message.settingsWasSaved": "{PREFIX} §aDeine §eEinstellungen§a wurden gespeichert§8.",
 	"message.settingsSavedError": "{PREFIX} §cDeine §eEinstellungen§c konnten nicht gespeichert werden§8.",
@@ -260,6 +261,9 @@
 	"message.flyDisabled": "{PREFIX} §cDu kanns nun nicht mehr §efliegen§8.",
 	"message.needHigherRank": "{PREFIX} §cDu benötigst einen höheren Rang um dieses Feature zu benutzen§8.",
 	"message.activateParticle": "{PREFIX} §aDu hast diese Partikel aktiviert§8.",
+	
+	"message.joinmeSend": "{PREFIX} §aDeine §bJoinMe §aNachricht wurde erfolgreich gesendet§8.",
+	"message.alreadySentJoinme": "{PREFIX} §cDu kannst nur alle 5 Minuten ein JoinMe erstellen§8.",
 	
 	"no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
       

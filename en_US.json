@@ -196,6 +196,7 @@
 	
 	"message.challengedBy": "{PREFIX} §aYou was challenged by §r#0#§8.",
 	"mesaage.unChallengedBy": "{PREFIX} §r#0# §chas withdrawn his §eChallenge§8.",
+	"message.unChallenged": "{PREFIX} §cYou have withdrawn your challenge to §r#0# §8.",
 	
 	"message.settingsWasSaved": "{PREFIX} §aYour §eSettings§a was saved§8.",
 	"message.settingsSavedError": "{PREFIX} §cYour §eSettings§c could not be saved§8.",
@@ -250,6 +251,9 @@
 	"message.flyDisabled": "{PREFIX} §cYou can no longer §efly§8.",
 	"message.needHigherRank": "{PREFIX} §cYou need a higher rank to use this feature§8.",
 	"message.activateParticle": "{PREFIX} §aYou have activated these particles§8.",
+	
+	"message.joinmeSend": "{PREFIX} §aYour §bJoinMe §aMessage was sent successfully§8.",
+	"message.alreadySentJoinme": "{PREFIX} §cYou can only create a JoinMe every 5 minutes§8.",
 	
 	"no.perms": "§cYou don't have the permissions to do this§7!",
       
