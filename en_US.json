@@ -255,6 +255,10 @@
 	"message.joinmeSend": "{PREFIX} §aYour §bJoinMe §aMessage was sent successfully§8.",
 	"message.alreadySentJoinme": "{PREFIX} §cYou can only create a JoinMe every 5 minutes§8.",
 	
+	"message.sizeSmall": "{PREFIX} §cYou are now §fsmall§8.",
+	"message.sizeNormal": "{PREFIX} §cYou are now §fnormal§8.",
+	"message.sizeBig": "{PREFIX} §cYou are now §fbig§8.",
+	
 	"no.perms": "§cYou don't have the permissions to do this§7!",
       
     "lobby.buyRank.alreadyHasRank": "{PREFIX} §cYou have already this §eRank§7.",
