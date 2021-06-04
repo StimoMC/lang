@@ -80,17 +80,17 @@
 	"ui.title.buyRank": "§cConfirm your §epurchase",
 	
 	"ui.text.playersPerTeam": "§2Players per Team",
+	
 	"ui.text.stats.getdown": "§7Rounds: §e#0#\n§7Kills: §e#1#\n§7Deaths: §e#2#\n§7K / D: §e#3#\n§7Wins: §e#4#\n§7Loses: §e#5#\n§7Win Chance: §e#6#",
+	"ui.text.stats.bedwars": "§eRounds: §9#0#\n§eKills: §9#1#\n§eDeaths: §9#2#\n§eK/D: §9#3#\n§eWins: §9#4#\n§eDefeats: §9#5#\n§eDestroyed beds: §9#6#\n\n§eWin-Chance: §9#7#",	
 	
 	"ui.text.voteForDrops": "§7Item Drops",
 	"ui.text.voteForGold": "§6Gold Voting",
 	
 	"ui.text.playerHider": "{PREFIX} §cHide §7or §ashow §7all §ePlayers§7!",
 	"ui.text.noPlayersFound": "§cNo players found§7.",
-		
-	"ui.error.clans.alreadyExists": "§cThis §eClan§c already exists§7.",
+
 	"ui.text.noPlayersFound": "§cNo players found§7.",	
-	"ui.text.stats.bedwars": "§eRounds: §9#0#\n§eKills: §9#1#\n§eDeaths: §9#2#\n§eK/D: §9#3#\n§eWins: §9#4#\n§eDefeats: §9#5#\n§eDestroyed beds: §9#6#\n\n§eWin-Chance: §9#7#",	
 	
 	"ui.button.close": "§cClose",
 	"ui.button.accept": "§aAccept",
@@ -247,6 +247,9 @@
 	"message.alreadyHasRank": "{PREFIX} §cYou have already this §eRank§7.",
 	"message.rankBought": "{PREFIX} §aYou have the rank #0# §asuccessfully bought§7!",
 	"message.abort": "{PREFIX} §cYou have cancelled the process§7.",
+	
+	"message.playersInVisible": "{PREFIX} §cYou no longer see players§8.",
+	"message.playersVisible": "{PREFIX} §aYou can now see all players again§8.",
 	
 	"no.perms": "§cYou don't have the permissions to do this§7!",
 	

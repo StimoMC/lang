@@ -76,13 +76,12 @@
 	"ui.title.fly": "§eFly",
 	
 	"ui.title.purchase.newStick": "§cKaufe einen Stick",
+	
 	"ui.title.enchanting": "§5Verzaubern",
 	
 	"ui.title.buyRank": "§7Bestätige deinen §eKauf",
 	
 	"ui.text.playersPerTeam": "§2Spieler pro Team",
-	
-	"ui.text.purchase": "§cKaufe dir hier sachen für eine gute BedWars runde§8.\n§f#0# ",
 	
 	"ui.text.voteForDrops": "§7Item Drops",
 	"ui.text.voteForGold": "§6Gold Voting",
@@ -91,10 +90,9 @@
 	"ui.text.noPlayersFound": "§cEs wurden keine Spieler gefunden§7.",
 	
 	"ui.text.stats.getdown": "§7Runden: §e#0#\n§7Kills: §e#1#\n§7Tode: §e#2#\n§7K / D: §e#3#\n§7Gewonnene Spiele: §e#4#\n§7Verlorene Spiele: §e#5#\n§7Gewinn Chance: §e#6#",
+	"ui.text.stats.mlgrush": "§eRunden: §9#0#\n§eKills: §9#1#\n§eTode: §9#2#\n§eK/D: §9#3#\n§eGewonnene Spiele: §9#4#\n§eVerloren: §9#5#\n§eZerstörte Betten: §9#6#\n\n§eWin-Chance: §9#7#",
 	
-	"ui.error.clans.alreadyExists": "§cDieser §eClan§c exestiert bereits§7.",
-	"ui.text.noPlayersFound": "§cEs wurden keine Spieler gefunden§7.",
-	"ui.text.stats.bedwars": "§eRunden: §9#0#\n§eKills: §9#1#\n§eTode: §9#2#\n§eK/D: §9#3#\n§eGewonnene Spiele: §9#4#\n§eVerloren: §9#5#\n§eZerstörte Betten: §9#6#\n\n§eWin-Chance: §9#7#",	
+	"ui.text.noPlayersFound": "§cEs wurden keine Spieler gefunden§7.",	
 		
 	"ui.button.close": "§cSchließen",
 	"ui.button.accept": "§aAkzeptieren",
@@ -260,6 +258,9 @@
 	"message.alreadyHasRank": "{PREFIX} §cDu hast diesen §eRang§c bereits§7.",
 	"message.rankBought": "{PREFIX} §aDu hast dir den Rank #0# §agekauft§7!",
 	"message.abort": "{PREFIX} §cDu hast den Vorgang abgebrochen§7!",
+	
+	"message.playersInVisible": "{PREFIX} §cDu siehst nun keine Spieler mehr§8.",
+	"message.playersVisible": "{PREFIX} §aDu siehst nun wieder alle Spieler§8.",
 	
 	"no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
 	
