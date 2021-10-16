@@ -1,12 +1,11 @@
 {
-	"PREFIX": "§l§8»§r",
+	"PREFIX": "§eStimoMC §8»§r",
 	"localeCode": "de_DE",
 	"name": "Deutsch",
 	
 	"values": {
-		
-	"coins.ownCoins": "{PREFIX} §aDu hast §e#0# §aCoins§8.",
 	
+	#Defaults
 	"scoreboard.starting.soon": "§cStartet bald...",
 	"scoreboard.starting.in": "§aStartet in §d#0#§c...",
 	"scoreboard.playersLeft": "§cSpieler verbleibend§7: §d#0#",
@@ -64,242 +63,17 @@
 	
 	"raw.loading": "Laden",
 	
-	"ui.title.clans": "§cClans",
-	"ui.title.settings": "§cEinstellungen",
-	"ui.title.stats": "§eStats",
-	"ui.title.spectate": "§eSpectate",
-	"ui.title.cosmetics": "§5Cosmetics",
-	"ui.title.teleporter": "§eTeleporter",
-	"ui.title.hidePlayer": "§eSpieler§r§7-§eVerstecken",
+	"message.needHigherRank": "§cDu benötigst ein höheren Rang um das zu tun.",
 	
-	"ui.title.particles": "§ePartikel",
-	"ui.title.fly": "§eFly",
+	#UI
+	"ui.content.editSize": "§eÄndere deine größe",
+	"ui.button.sizeSmall": "§fKlein",
+	"ui.button.sizeNormal": "§fNormal",
+	"ui.button.sizeBig": "§fGroß",
 	
-	"ui.title.purchase.newStick": "§cKaufe einen Stick",
-	
-	"ui.title.enchanting": "§5Verzaubern",
-	
-	"ui.title.buyRank": "§7Bestätige deinen §eKauf",
-	
-	"ui.text.playersPerTeam": "§2Spieler pro Team",
-	
-	"ui.text.voteForDrops": "§7Item Drops",
-	"ui.text.voteForGold": "§6Gold Voting",
-	
-	"ui.text.playerHider": "{PREFIX} §cVerstecke §7oder §azeige §7alle §eSpieler§7!",
-	"ui.text.noPlayersFound": "§cEs wurden keine Spieler gefunden§7.",
-	
-	"ui.text.stats.getdown": "§7Runden: §e#0#\n§7Kills: §e#1#\n§7Tode: §e#2#\n§7K / D: §e#3#\n§7Gewonnene Spiele: §e#4#\n§7Verlorene Spiele: §e#5#\n§7Gewinn Chance: §e#6#",
-	"ui.text.stats.mlgrush": "§eRunden: §9#0#\n§eKills: §9#1#\n§eTode: §9#2#\n§eK/D: §9#3#\n§eGewonnene Spiele: §9#4#\n§eVerloren: §9#5#\n§eZerstörte Betten: §9#6#\n\n§eWin-Chance: §9#7#",
-	
-	"ui.text.noPlayersFound": "§cEs wurden keine Spieler gefunden§7.",	
-		
-	"ui.button.close": "§cSchließen",
-	"ui.button.accept": "§aAkzeptieren",
-	"ui.button.deny": "§cAblehnen",
-	"ui.button.confirm": "§aBestätigen",
-	"ui.button.abort": "§cAbbrechen",
-	"ui.button.back": "§cZurück",
-	"ui.button.enable": "§aAn",
-	"ui.button.disable": "§cAus",
-	
-	"ui.button.settings": "§cEinstellungen",
-	
-	"ui.button.rename": "Umbenennen",
-	"ui.button.enchant": "Verzaubern",
-	"ui.button.durability": "Haltbarkeit",
-	
-	"ui.button.sizeSmall": "Klein",
-	"ui.button.sizeNormal": "Normal",
-	"ui.button.sizeBig": "Groß",
-	
-	"ui.button.redParticle": "§cRote Partikel",
-	"ui.button.yellowParticle": "§eGelbe Partikel",
-	"ui.button.greenParticle": "§aGrüne Partikel",
-	"ui.button.blueParticle": "§1Blaue Partikel",
-	"ui.button.heartParticle": "§4Herz Partikel",
-	"ui.button.fireParticle": "§6Feuer Partikel",
-	
-	"ui.button.showPlayers": "§aZeige alle Spieler",
-	"ui.button.hidePlayers": "§cVerstecke alle Spieler",
-	"ui.button.particle": "§dPartikel",
-	"ui.button.fly": "§eFly",
-    "ui.button.buyRanks": "§eKaufe einen §cRank",
-	"ui.button.enableFly": "§aAktiviere §eFly",
-	"ui.button.disableFly": "§cDeaktiviere §eFly",
-	
-	"ui.content.selectGadget": "§eWähle ein §5Gadget§e aus§7!",
-	"ui.content.fly": "§fAktiviere oder Deaktiviere den Flug modus",
-	
-    "ui.content.confirmPremium": "§7Die rechte für den §6Premium Rang§7:\n\n§8- §eDu kannst in der §bLobby §efliegen\n§8- §eDu besitzt alle §cPartikel §ein der §bLobby\n§8- §eDu kannst dich §dNicken\n\n§7Kosten§8:§e 30.000 Coins",
-	"ui.content.confirmVIP": "§7Die rechte für den §bVIP Rang§7:\n\n§8- §eDu kannst MiniGames Starten\n§8- §eDu kannst eine Gruppe (Premium) für deinen Nickname auswählen\n§8- §eDu kannst JoinMe's erstellen\n§8- §eAlle Rechte des §6Premium§7-§6Rangs\n\n§7Kosten§8: §e150.000 Coins",
-	
-	"ui.toggle.onOff": "§aAn §8/ §4Aus",
-	
-	"gui.title.selectTeam": "§cWähle dein Team",
-	
-	"game.server.joined": "§l§a» §r#0#",
-	"game.server.left": "§l§c« §r#0#",
-	
-	"message.mapWillChangeInMinutes": "{PREFIX} §eDie Map wird in §d#0# Minuten §egeändert§8.",
-	"message.mapWillChangeInSeconds": "{PREFIX} §eDie Map wird in §d#0# Sekunden §egeändert§8.",
-	
-	"message.playerNotFound": "{PREFIX} §cDieser Spieler wurde nicht gefunden§8.",
-	
-	"message.lobby.hideAll": "{PREFIX} §cAlle §eSpieler§c sind nun §eunsichtbar§7!",
-	"message.lobby.showAll": "{PREFIX} §aAlle §eSpieler§a sind nun §esichtbar§7!",
-	
-	"message.alreadyInTeam": "{PREFIX} §cDu bist bereits in diesen §dTeam§8.",
-	"message.teamIsFull": "{PREFIX} §cDieses §dTeam§c ist bereits voll§8.",
-	"message.notInGame": "{PREFIX} §4Du bist nicht §cInGame§8.",
-	
-	"message.alreadyVoted": "{PREFIX} §cDu hast bereits gevotet§8.",
-	"message.voteForItemDrops": "{PREFIX} §aDu hast für §7Item Drops §agevotet§8.",
-	"message.devoteForItemDrops": "{PREFIX} §cDu hast gegen §7Item Drops §cgevotet§8.",
-	
-	"message.ownCoins": "{PREFIX} §aDeine §eCoins§7:§e #0#",
-	"message.addedCoins": "{PREFIX} §aDu hast den Spieler§6 #0# §e#1# Coins §agegeben§7!",
-	"message.removedCoins": "{PREFIX} §cDu hast den Spieler§6 #0# §e#1# Coins §centfernt§7!",
-	
-	"message.voteReward": "{PREFIX}§eDu hast §97 Tage §dLegend §ebekommen, weil du 28 oder mehr Votes hast.\n§gViel Spaß damit§7.",
-	"message.playerNotExists": "{PREFIX} §cDieser Spieler exestiert nicht§7.",
-    "message.notEnoughCoins": "{PREFIX} §cDu hast zu wenig Coins§7.",
-	
-	"message.joinQueue": "{PREFIX} §aDu bist der §eQueue §abeigetreten§7.",
-	"message.leftQueue": "{PREFIX} §cDu hast die §eQueue §cverlassen§7.",
-	
-	"message.playerDied": "{PREFIX} §cDer Spieler§r #0# §cist gestorben§8.",
-	"message.youKilled": "{PREFIX} §aDu hast§r #0# §agetötet§8.",
-	"message.youKilledBy": "{PREFIX} §cDu wurdest von§r #0# §cgetötet§8.",
-	"message.playerKilledBy": "{PREFIX} §cDer Spieler§r #0# §cwurde von§r #1# §cgetötet§8.",
-	"message.youAreDead": "{PREFIX} §cDu bist ausgeschieden, da dein Bett nicht mehr exestiert§8.",
-	"message.youDied": "{PREFIX} §cDu bist gestorben§8.",
-	
-	"message.bedWasDestroyedBy": "{PREFIX} §cDas Bett von §r#0# §cwurde von §r#1#§c zerstört§8.",
-	"message.bedNotExists": "{PREFIX} §4Dieses Bett exestiert nicht§8.",
-	"message.cannotDestroyOwnBed": "{PREFIX} §cDu kannst dein eigenes Bett nicht abbauen§8.",
-	
-	"message.challengedBy": "{PREFIX} §aDu wurdest von §r#0# §aherausgefordert§8.",
-	"message.unChallengedBy": "{PREFIX} §r#0# §chat seine §eHerausforderung §czurückgezogen§8.",
-	"message.unChallenged": "{PREFIX} §cDu hast deine Herausforderung an §r#0# §czurückgezogen§8.",
-	
-	"message.settingsWasSaved": "{PREFIX} §aDeine §eEinstellungen§a wurden gespeichert§8.",
-	"message.settingsSavedError": "{PREFIX} §cDeine §eEinstellungen§c konnten nicht gespeichert werden§8.",
-	
-	"message.shopWasSuccessfulChanged": "{PREFIX} §aDein Shop wurde erfolgreich geändert§8.",
-	"message.shopWasNotChanged": "{PREFIX} §cDein Shop wurde nicht geändert§8.",
-	
-	"message.stickWasSuccessfulChanged": "{PREFIX} §aDein Stick wurde erfolgreich geändert§8.",
-	"message.stickWasNotChanged": "{PREFIX} §cDein Stick wurde nicht geändert§8.",
-	
-	"message.killstreak": "{PREFIX} §eDer Spieler §r#0# §ehat einen Killstreak von §d#1# §eerreicht§8.",
-	
-	"message.duelPlayerLeft": "{PREFIX} §cDer Spieler §r#0# §chat die Runde verlassen§8.",
-	"message.endGame": "{PREFIX} §cDas Spiel wurde beendet§8.",
-	"message.winOther": "{PREFIX} §eDer Spieler §r#0# §ehat gewonnen§8.",
-	"message.cannotPlaceBlocksHere": "{PREFIX} §cDu kannst hier keine Blöcke platzieren§8.",
-	"message.cannotPlaceBlocksAtSpawn": "{PREFIX} §cDu kannst hier keine Blöcke platzieren§8.",
-	
-	"message.invited": "{PREFIX} §eDu hast §r#0# §ein dein Team eingeladen§8.",
-	"message.invitedFrom": "{PREFIX} §eDu hast eine Einladung von §f#0# §r#1# §ebekommen§8.",
-	"message.alreadyInvited": "{PREFIX} §cDu hast diesen Spieler bereits in dein Team eingeladen§8.",
-	"message.teamMateLeftTheTeam": "{PREFIX} §cDein Teammate hat das Team verlassen§8.",
-	"message.youLeftTheTeam": "{PREFIX} §cDu hast das Team verlassen§8.",
-	"message.acceptInviteOther": "{PREFIX} §eDu hast die Einladung von §r#0# §eangenommen§8.",
-	"message.acceptInvite": "{PREFIX} §eDeine Einladung wurde angenommen§8.",
-	"message.noInvite": "{PREFIX} §cDu hast keine Invites§8.",
-	"message.denyInvite": "{PREFIX} §cDu hast die Einladung abgelehnt§8.",
-	
-	"message.safeTimeEnding": "{PREFIX} §cDie Schutzzeit endet in §e#0# Sekunden§8.",
-	"message.pvpEnabled": "{PREFIX} §4PvP ist nun aktiviert§8.",
-	"message.gameStartsIn": "{PREFIX} §aDas Spiel startet in §e#0# Sekunden§8.",
-	"message.gameEndsMinutes": "{PREFIX} §cDas Spiel endet in §e#0# Minuten§8.",
-	"message.gameEndsSeconds": "{PREFIX} §cDas Spiel endet in §e#0# Sekunden§8.",
-	"message.hasWon": "{PREFIX} §aDer Spieler §e#0# §ahat die Runde gewonnen§8.",
-	
-	"message.nobodyWonDuel": "{PREFIX} §4Keiner hat gewonnen§8.",
-	"message.wonDuel": "{PREFIX} §r#0# §ahat gewonnen§8.",
-	"message.serverIsRestarting": "§cDer Server startet neu.",
-	
-	"message.alivePlayers": "{PREFIX} §4Es leben noch §e#0# §4Spieler§8.",
-	
-	"message.playerAtBottom": "{PREFIX} #0# §chat den Boden als erstes erreicht§8.",
-	"message.win": "{PREFIX} §aDu hast gewonnen§8.",
-	"message.enableFly": "{PREFIX} §aDu hast den §eFlug§7-§eModus§a aktiviert§7!",
-	"message.disableFly": "{PREFIX} §cDu hast den §eFlug§7-§eModus§c deaktiviert§7!",
-	
-	"message.notEnchantableItem": "§cDu kannst dieses Item nicht verzaubern.",
-	"message.gameWasAlreadySkipped": "§cDie Wartezeit wurde bereits verkürzt.",
-	"message.gameWasSkipped": "§aDu hast die Wartezeit verkürzt.",
-	"message.gameIsNotStarting": "§cDas Spiel startet nicht.",
-	
-	"message.canBuild": "§aDu kannst nun bauen.",
-	"message.canNoLongerBuild": "§cDu kannst nun nicht mehr bauen.",
-	
-	"message.teamWon": "{PREFIX} §aDas Team §r#0# §ahat gewonnen§8.",
-	"message.roundsPlayed": "{PREFIX} §7Es werden §6#0# Runden §7gespielt.",
-	"message.waitForPlayers": "§7Warte auf weitere Spieler...",
-	
-	"message.playOnMap": "{PREFIX} §aEs wird auf der Map §b#0#§a gespielt§8.",
-	"message.gameStarted": "§l§a» §fDas Spiel hat gestartet",
-	
-	"message.flyEnabled": "{PREFIX} §aDu kannst nun §efliegen§8.",
-	"message.flyDisabled": "{PREFIX} §cDu kanns nun nicht mehr §efliegen§8.",
-	"message.needHigherRank": "{PREFIX} §cDu benötigst einen höheren Rang um dieses Feature zu benutzen§8.",
-	"message.activateParticle": "{PREFIX} §aDu hast diese Partikel aktiviert§8.",
-	
-	"message.joinmeSend": "{PREFIX} §aDeine §bJoinMe §aNachricht wurde erfolgreich gesendet§8.",
-	"message.alreadySentJoinme": "{PREFIX} §cDu kannst nur alle 5 Minuten ein JoinMe erstellen§8.",
-	
-	"message.sizeSmall": "{PREFIX} §cDu bist nun §fklein§8.",
-	"message.sizeNormal": "{PREFIX} §cDu bist nun §fnormal§8.",
-	"message.sizeBig": "{PREFIX} §cDu bist nun §fgroß§8.",
-	
-	"message.alreadyHasRank": "{PREFIX} §cDu hast diesen §eRang§c bereits§7.",
-	"message.rankBought": "{PREFIX} §aDu hast dir den Rank #0# §agekauft§7!",
-	"message.abort": "{PREFIX} §cDu hast den Vorgang abgebrochen§7!",
-	
-	"message.playersInVisible": "{PREFIX} §cDu siehst nun keine Spieler mehr§8.",
-	"message.playersVisible": "{PREFIX} §aDu siehst nun wieder alle Spieler§8.",
-	
-	"no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
-	
-	"securitysystem.youCannotBanBypass": "{PREFIX} §cDu kannst §e#0#§c nicht bannen§7!",
-	"securitysystem.banWasSuccessfull": "{PREFIX} §aDu hast §e#0# §awegen§e #1#§a gebannt§7!",
-	"securitysystem.youCannotMuteBypass": "{PREFIX} §cDu kannst §e#0#§c nicht muten§7!",
-	"securitysystem.muteWasSuccessfull": "{PREFIX} §aDu hast §e#0# §awegen §e#1#§a gemutet§7!",
-	"securitysystem.reportWasSuccessful": "{PREFIX} §aDu hast §e#0# §awegen §e#1# §areportet§7!",
-	"securitysystem.playerWasUnbanned": "{PREFIX} §e#0#§a wurde entbannt§7!",
-	"securitysystem.playerWasUnmuted": "{PREFIX} §e#0#§a wurde entmutet§7!",
-	"securitysystem.muted.automatic": "{PREFIX} §cDu wurdest gemutet§7!\n§aDauer§7: §e#0#\n§aGrund§7: §e#1#",
-	"securitysystem.muted.permanent": "{PREFIX} §cDu wurdest gemutet§7!\n§aGemutet von§7: §e#0#\n§aGrund§7: §e#1#",
-	"securitysystem.muted.until": "{PREFIX} §cDu wurdest gemutet§7!\n§aGemutet von§7: §e#0#\n§aDauer§7: §e#1#\n§aGrund§7: §e#2#",
-	"securitysystem.banned.automatic": "{PREFIX} §4Du wurdest gebannt§7!\n§cGebannt von§7:§e #0#\n§cGrund§7:§e #1#\n§cDauer§7:§e #2#",
-	"securitysystem.banned.permanent": "{PREFIX} §4Du wurdest gebannt§7!\n§cGebannt von§7:§e #0#\n§cGrund§7:§e #1#",
-	"securitysystem.banned.until": "{PREFIX} §4Du wurdest gebannt§7!\n§cGebannt von§7:§e #0#\n§cGrund§7:§e #1#\n§cDauer§7:§e #2#",
-	"securitysystem.playerNotBanned": "{PREFIX} §cDieser Spieler ist nicht gebannt§7!",
-	"securitysystem.playerNotMuted": "{PREFIX} §cDieser Spieler ist nicht gemutet§7!",
-	"securitysystem.youAreUnmuted.mistake": "{PREFIX} §aDu wurdest entmutet, da dies ein Fehlmute war§7!",
-	"securitysystem.youAreUnmuted": "{PREFIX} §aDu bist nicht länger gemutet§7!",
-	"securitysystem.noSpam": "{PREFIX} §cBitte spamme nicht§7!",
-	"securitysystem.provideKickReason": "{PREFIX} §cBitte gebe einen Grund an§7!",
-	"securitysystem.cantKickYourself": "{PREFIX} §cDu kannst dich nicht selber kicken§7!",
-	"securitysystem.kickedPlayer": "{PREFIX} §aDu hast §e#0#§a wegen §e#1# §agekickt§7!",
-	"securitysystem.noAds": "{PREFIX} §cBitte sende keine Links§7!",
-	"securitysystem.alreadyBanned": "{PREFIX} §cDieser Spieler ist bereits gebannt§7!",
-	"securitysystem.alreadyMuted": "{PREFIX} §cDieser Spieler ist bereits gemutet§7!",
-		
-	"reason.tooManyCPS": "{PREFIX}\n §cDu hast zu viele §eCPS§7.",
-	
-	"bedwars.team.autoJoin": "{PREFIX} §eDu bist automatisch den Team §r#0# §ebeigetreten§8.",
-	"bedwars.team.full": "{PREFIX} §cDas Team §r#0#§c ist voll§8.",
-	"bedwars.team.joined": "{PREFIX} §aDu bist den Team §r#0#§a beigetreten§8.",
-	"bedwars.team.cantJoin": "{PREFIX} §4Du kannst den Team §r#0# §4nicht beitreten§8.",
-	"game.server.join": "{PREFIX} §r#0# §ehat den Server betreten§8.",
-	
-	"getdown.ui.error": "Fehler\n#0#",
-	"getdown.ui.notEnoughCoins": "Nicht genug Coins\n#0#",
-	"getdown.ui.price": "#0#\n#1#",
-	"message.equipNow": "{PREFIX} §cRüste dich nun aus§8."
+	#LobbySystem
+	"message.sizeSmall": "{PREFIX} §cDu bist nun §fKLEIN§8.",
+	"message.sizeNormal": "{PREFIX} §cDu bist nun §fNORMAL§8.",
+	"message.sizeBig": "{PREFIX} §cDu bist nun §fGROß§8."
 	}
 }
