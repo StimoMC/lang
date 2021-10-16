@@ -61,19 +61,38 @@
 	"raw.forbidden": "Verboten",
 	"raw.allowed": "Erlaubt",
 	
-	"raw.loading": "Laden",
+	"raw.loading": "Laden...",
 	
 	"message.needHigherRank": "§cDu benötigst ein höheren Rang um das zu tun.",
+	"message.canBuild": "§aDu kannst nun bauen.",
+	"message.canNoLongerBuild": "§cDu kannst nun nicht mehr bauen.",
 	
 	#UI
+	"ui.button.close": "§4Schließen",
 	"ui.content.editSize": "§eÄndere deine größe",
 	"ui.button.sizeSmall": "§fKlein",
 	"ui.button.sizeNormal": "§fNormal",
 	"ui.button.sizeBig": "§fGroß",
+	"ui.button.redParticle": "§4Rote Partikel",
+	"ui.button.yellowParticle": "§eGelbe Partikel",
+	"ui.button.greenParticle": "§2Grüne Partikel",
+	"ui.button.blueParticle": "§1Blaue Partikel",
+	"ui.button.heartParticle": "§cHerz Partikel",
+	"ui.button.fireParticle": "§6Feuer Partikel",
+	"ui.button.showPlayers": "§aSpieler zeigen",
+	"ui.button.hidePlayers": "§cSpieler verstecken",
+	"ui.content.fly": "§eFly Tool",
+	"ui.button.enableFly": "§aAktivieren",
+	"ui.button.disableFly": "§cDeaktiieren",
 	
 	#LobbySystem
 	"message.sizeSmall": "{PREFIX} §cDu bist nun §fKLEIN§8.",
 	"message.sizeNormal": "{PREFIX} §cDu bist nun §fNORMAL§8.",
-	"message.sizeBig": "{PREFIX} §cDu bist nun §fGROß§8."
+	"message.sizeBig": "{PREFIX} §cDu bist nun §fGROß§8.",
+	"message.activateParticle": "{PREFIX} §aDu hast diese §ePartikel §aerfolgreich ausgewählt§8.",
+	"message.playersVisible": "{PREFIX} §aDu kannst nun alle §fSpieler §asehen§8.",
+	"message.playersInVisible": "{PREFIX} §cDu kannst nun keine §fSpieler §cmehr sehen.",
+	"message.flyEnabled": "{PREFIX} §aDu kannst nun §ffliegen§8.",
+	"message.flyDisabled": "{PREFIX} §cDu kanst nun nicht länger §ffliegen§8."
 	}
 }
