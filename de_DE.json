@@ -44,6 +44,7 @@
 	"raw.drops": "Drops",
 	"raw.ranked": "Ranked",
 	"raw.coins": "Coins",
+	"raw.rank": "Rang",
 	"raw.round": "Runde",
 	
 	"raw.kills": "Kills",
@@ -53,7 +54,7 @@
 	"raw.spectators": "§cZuschauer",
 	"raw.waiting": "§7Warten",
 	
-	"raw.kit": "§7Kit",
+	"raw.kit": "Kit",
 	
 	"raw.level": "Level",
 	"raw.kills": "Kills",
@@ -94,5 +95,31 @@
 	"message.playersInVisible": "{PREFIX} §cDu kannst nun keine §fSpieler §cmehr sehen.",
 	"message.flyEnabled": "{PREFIX} §aDu kannst nun §ffliegen§8.",
 	"message.flyDisabled": "{PREFIX} §cDu kanst nun nicht länger §ffliegen§8."
+	
+	#SecuritySystem
+	"securitysystem.youCannotBanBypass": "{PREFIX} §cDu kannst §e#0#§c nicht bannen§8.",
+	"securitysystem.banWasSuccessfull": "{PREFIX} §aDu hast §e#0# §awegen§e #1#§a gebannt§8.",
+	"securitysystem.youCannotMuteBypass": "{PREFIX} §cDu kannst §e#0#§c nicht muten§8.",
+	"securitysystem.muteWasSuccessfull": "{PREFIX} §aDu hast §e#0# §awegen §e#1#§a gemutet§8.",
+	"securitysystem.reportWasSuccessful": "{PREFIX} §aDu hast §e#0# §awegen §e#1# §areportet§8.",
+	"securitysystem.playerWasUnbanned": "{PREFIX} §e#0#§a wurde entbannt§8.",
+	"securitysystem.playerWasUnmuted": "{PREFIX} §e#0#§a wurde entmutet§8.",
+	"securitysystem.muted.automatic": "{PREFIX} §cDu wurdest gemutet§8.\n§aDauer§7: §e#0#\n§aGrund§7: §e#1#",
+	"securitysystem.muted.permanent": "{PREFIX} §cDu wurdest gemutet§8.\n§aGemutet von§7: §e#0#\n§aGrund§7: §e#1#",
+	"securitysystem.muted.until": "{PREFIX} §cDu wurdest gemutet§8.\n§aGemutet von§7: §e#0#\n§aDauer§7: §e#1#\n§aGrund§7: §e#2#",
+	"securitysystem.banned.automatic": "{PREFIX} §4Du wurdest gebannt§8.\n§cGebannt von§7:§e #0#\n§cGrund§7:§e #1#\n§cDauer§7:§e #2#",
+	"securitysystem.banned.permanent": "{PREFIX} §4Du wurdest gebannt§8.\n§cGebannt von§7:§e #0#\n§cGrund§7:§e #1#",
+	"securitysystem.banned.until": "{PREFIX} §4Du wurdest gebannt§8.\n§cGebannt von§7:§e #0#\n§cGrund§7:§e #1#\n§cDauer§7:§e #2#",
+	"securitysystem.playerNotBanned": "{PREFIX} §cDieser Spieler ist nicht gebannt§8.",
+	"securitysystem.playerNotMuted": "{PREFIX} §cDieser Spieler ist nicht gemutet§8.",
+	"securitysystem.youAreUnmuted.mistake": "{PREFIX} §aDu wurdest entmutet, da dies ein Fehlmute war§8.",
+	"securitysystem.youAreUnmuted": "{PREFIX} §aDu bist nicht länger gemutet§8.",
+	"securitysystem.noSpam": "{PREFIX} §cBitte spamme nicht§8.",
+	"securitysystem.provideKickReason": "{PREFIX} §cBitte gebe einen Grund an§8.",
+	"securitysystem.cantKickYourself": "{PREFIX} §cDu kannst dich nicht selber kicken§8.",
+	"securitysystem.kickedPlayer": "{PREFIX} §aDu hast §e#0#§a wegen §e#1# §agekickt§8.",
+	"securitysystem.noAds": "{PREFIX} §cBitte sende keine Links§8.",
+	"securitysystem.alreadyBanned": "{PREFIX} §cDieser Spieler ist bereits gebannt§8.",
+	"securitysystem.alreadyMuted": "{PREFIX} §cDieser Spieler ist bereits gemutet§8.",
 	}
 }
