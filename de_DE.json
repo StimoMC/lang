@@ -203,6 +203,19 @@
 	"securitysystem.alreadyBanned": "{PREFIX} §cDieser Spieler ist bereits gebannt§8.",
 	"securitysystem.alreadyMuted": "{PREFIX} §cDieser Spieler ist bereits gemutet§8.",
 	
+	"securitysystem.reason.cheating": "Cheating",
+	"securitysystem.reason.racism": "Rassismus",
+	"securitysystem.reason.unallowed_skin": "Unerlaubter Skin",
+	"securitysystem.reason.unallowed_name": "Unerlaubter Name",
+	"securitysystem.reason.report_abuse": "Report missbrauch",
+	"securitysystem.reason.extreme": "Extrem",
+	"securitysystem.reason.refund": "Kauf Erstattung",
+	
+	"securitysystem.reason.insults": "Beleidigungen",
+	"securitysystem.reason.advertisement": "Werbung",
+	"securitysystem.reason.spamming": "Spamming",
+	"securitysystem.reason.provocation": "Provokation",
+	
 	#CoinSystem
 	"message.myCoins": "{PREFIX} §aDeine Coins: §6#0#",
 	"message.addedCoins": "{PREFIX} §aDu hast den Spieler §e#0# §6#1# Coins §agegeben§8.",
