@@ -78,6 +78,8 @@
 	"message.playerNotExists": "{PREFIX} §cDieser Spieler exestiert nicht§7.",
     "message.notEnoughCoins": "{PREFIX} §cDu hast zu wenig Coins§7.",
 	
+	"message.languageChanged": "{PREFIX} §7Du hast deine Sprache zu §6#0# §7geändert§8.",
+	
 	#Game-Messages:
 	"message.destroyOwnBed": "{PREFIX} §cDu kannst dein eigenes §6Bett §4nicht zerstören§8.",
 	"message.bedNotExists": "{PREFIX} §4Dieses Bett exestiert nicht§8.",
@@ -106,6 +108,7 @@
 	"message.youLost": "{PREFIX} §cDu hast verloren.",
 	"message.youWon": "{PREFIX} §aDu hast gewonnen.",
 	"message.teamWon": "{PREFIX} §aDas Team §r#0# §ahat gewonnen§8.",
+	"message.enemyWon": "",
 	
 	"message.yourBedWasDestroyed": "{PREFIX} §4Dein Bett wurde von §r#0# §4zerstört§8.",
 	"message.bedDestroyed": "{PREFIX} §aDu hast das §6Bett §avon §r#0# §azerstört§8.",
