@@ -206,6 +206,6 @@
 	#CoinSystem
 	"message.myCoins": "{PREFIX} §aDeine Coins: §6#0#",
 	"message.addedCoins": "{PREFIX} §aDu hast den Spieler §e#0# §6#1# Coins §agegeben§8.",
-	"message.removedCoins": "{PREFIX} §cDu hast den Spieler §e#0# §6#1# Coins §centfernt§8.",
+	"message.removedCoins": "{PREFIX} §cDu hast den Spieler §e#0# §6#1# Coins §centfernt§8."
 	}
 }
