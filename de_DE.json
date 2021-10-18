@@ -87,6 +87,10 @@
 	
 	"message.errorOccurred": "§cLeider ist ein Fehler aufgetreten. Versuche es bitte später nochmal!",
 	
+	"message.teamSelected": "{PREFIX} §aDu hast das Team §r#0# §aausgewählt§8.",
+	"message.teamFull": "{PREFIX} §cDieses Team ist bereits voll§8.",
+	"message.alreadyInTeam": "{PREFIX} §4Du bist bereits in diesen Team§8.",
+	
 	#UI
 	"ui.button.close": "§4Schließen",
 	"ui.content.editSize": "§eÄndere deine größe",
@@ -144,6 +148,14 @@
 	#CoinSystem
 	"message.myCoins": "{PREFIX} §aDeine Coins: §6#0#",
 	"message.addedCoins": "{PREFIX} §aDu hast den Spieler §e#0# §6#1# Coins §agegeben§8.",
-	"message.removedCoins": "{PREFIX} §cDu hast den Spieler §e#0# §6#1# Coins §centfernt§8."
+	"message.removedCoins": "{PREFIX} §cDu hast den Spieler §e#0# §6#1# Coins §centfernt§8.",
+	
+	#BedWars
+	"message.destroyOwnBed": "{PREFIX} §cDu kannst dein eigenes §6Bett §4nicht zerstören§8.",
+	"message.bedDestroyed": "{PREFIX} §aDu hast das §6Bett §avon §r#0# §azerstört§8.",
+	"message.bedDestroyedBy": "{PREFIX} §aDas §6Bett §avon §r#0# §awurde von §r#0# §azerstört§8.",
+	"message.yourBedWasDestroyed": "{PREFIX} §4Dein Bett wurde von §r#0# §4zerstört§8.",
+	
+	"title.bedDestroyed": "§4Dein Bett\n§4wurde zerstört."
 	}
 }
