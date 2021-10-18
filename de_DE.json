@@ -74,8 +74,13 @@
 	"message.setup.setSpawn": "{PREFIX} §cSetze nun den Spawn von Team §r#0##1#",
 	"message.setup.PlaceSpawner": "{PREFIX} §aBitte platziere einen §6Block §aauf den §6Spawner§8.",
 	
+	"message.voteReward": "{PREFIX}§eDu hast §97 Tage §dLegend §ebekommen, weil du 28 oder mehr Votes hast.\n§gViel Spaß damit§7.",
+	"message.playerNotExists": "{PREFIX} §cDieser Spieler exestiert nicht§7.",
+    "message.notEnoughCoins": "{PREFIX} §cDu hast zu wenig Coins§7.",
+	
 	#Game-Messages:
 	"message.destroyOwnBed": "{PREFIX} §cDu kannst dein eigenes §6Bett §4nicht zerstören§8.",
+	"message.bedNotExists": "{PREFIX} §4Dieses Bett exestiert nicht§8.",
 	"message.gameStarted": "{PREFIX} §aDas Spiel hat §ebegonnen§8.",
 	"message.gameEnded": "{PREFIX} §cDas Spiel wurde §ebeendet§8.",
 	
@@ -106,11 +111,25 @@
 	"message.bedDestroyed": "{PREFIX} §aDu hast das §6Bett §avon §r#0# §azerstört§8.",
 	"message.bedDestroyedBy": "{PREFIX} §aDas §6Bett §avon §r#0# §awurde von §r#0# §azerstört§8.",
 	
+	"message.playerDied": "{PREFIX} §cDer Spieler §r#0# §cist gestorben§8.",
+	"message.playerKilledBy": "{PREFIX} §cDer Spieler §r#0# §cwurde von §r#0# §cgetötet§8.",
+	"message.youDied": "{PREFIX} §cDu bist gestorben§8.",
+	"message.youKilledBy": "{PREFIX} §cDu wurdest von §r#0# §cgetötet§8.",
+	"message.youKilled": "{PREFIX} §aDu hast §r#0# §agetötet§8.",
+	
+	"message.challengedBy": "{PREFIX} §aDu wurdest von §r#0# §aherausgefordert§8.",
+	"message.unChallengedBy": "{PREFIX} §r#0# §chat seine §eHerausforderung §czurückgezogen§8.",
+	"message.unChallenged": "{PREFIX} §cDu hast deine Herausforderung an §r#0# §czurückgezogen§8.",
+	
+	"message.equipNow": "{PREFIX} §cRüste dich nun aus§8."
+	
 	"title.bedDestroyed": "§4Dein Bett\n§4wurde zerstört.",
 	
 	#UI
-	"ui.button.close": "§4Schließen",
 	"ui.content.editSize": "§eÄndere deine größe",
+	"ui.content.fly": "§eFly Tool",
+	
+	"ui.button.close": "§4Schließen",
 	"ui.button.sizeSmall": "§fKlein",
 	"ui.button.sizeNormal": "§fNormal",
 	"ui.button.sizeBig": "§fGroß",
@@ -122,9 +141,18 @@
 	"ui.button.fireParticle": "§6Feuer Partikel",
 	"ui.button.showPlayers": "§aSpieler zeigen",
 	"ui.button.hidePlayers": "§cSpieler verstecken",
-	"ui.content.fly": "§eFly Tool",
 	"ui.button.enableFly": "§aAktivieren",
 	"ui.button.disableFly": "§cDeaktiieren",
+	
+	"ui.text.stats.getdown": "§7Runden: §e#0#\n§7Kills: §e#1#\n§7Tode: §e#2#\n§7K / D: §e#3#\n§7Gewonnene Spiele: §e#4#\n§7Verlorene Spiele: §e#5#\n§7Gewinn Chance: §e#6#",
+	"ui.text.playersPerTeam": "§2Spieler pro Team",
+	"ui.text.voteForDrops": "§7Item Drops",
+	"ui.text.voteForGold": "§6Gold Voting",
+	"ui.text.error": "Fehler\n#0#",
+	"ui.text.notEnoughCoins": "Nicht genug Coins\n#0#",
+	"ui.text.price": "#0#\n#1#",
+	
+	"ui.title.enchanting": "§5Verzaubern",
 	
 	#LobbySystem
 	"message.sizeSmall": "{PREFIX} §cDu bist nun §fKLEIN§8.",
