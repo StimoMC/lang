@@ -91,6 +91,11 @@
 	"message.teamFull": "{PREFIX} §cDieses Team ist bereits voll§8.",
 	"message.alreadyInTeam": "{PREFIX} §4Du bist bereits in diesen Team§8.",
 	
+	"message.roundsPlayed": "{PREFIX} §6Es werden §e#0# Runden §6gespielt§8.",
+	"message.youLost": "{PREFIX} §cDu hast verloren.",
+	"message.youWon": "{PREFIX} §aDu hast gewonnen.",
+	"message.teamWon": "{PREFIX} §aDas Team §r#0# §ahat gewonnen§8.",
+	
 	#UI
 	"ui.button.close": "§4Schließen",
 	"ui.content.editSize": "§eÄndere deine größe",
