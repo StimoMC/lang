@@ -67,6 +67,25 @@
 	"message.needHigherRank": "§cDu benötigst ein höheren Rang um das zu tun.",
 	"message.canBuild": "§aDu kannst nun bauen.",
 	"message.canNoLongerBuild": "§cDu kannst nun nicht mehr bauen.",
+	"message.gameStarted": "{PREFIX} §aDas Spiel hat §ebegonnen§8.",
+	"message.gameEnded": "{PREFIX} §cDas Spiel wurde §ebeendet§8.",
+	
+	"message.gameStartsInMinutes": "{PREFIX} §7Das §eSpiel §7startet in §6#0# Minuten§8.",
+	"message.gameStartsInSeconds": "{PREFIX} §7Das §eSpiel §7startet in §6#0# Sekunden§8.",
+	"message.gameEndsInMinutes": "{PREFIX} §7Das §eSpiel §7endet in §6#0# Minuten§8.",
+	"message.gameEndsInSeconds": "{PREFIX} §7Das §eSpiel §7endet in §6#0# Sekunden§8.",
+	"message.savetimeEndsIn": "{PREFIX} §cDie Schutzzeit endet in §6#0# Sekunden§8.",
+	"message.serverRestartsIn": "{PREFIX} §cDer Server startet in §6#0# Sekunden §cneu§8.",
+	
+	"message.nowSpectator": "{PREFIX} §cDu bist nun ein Zuschauer§8.",
+	"message.mapChangeInMinutes": "{PREFIX} §7In §6#0# Minuten §7wird die §eMap §7gewechselt.",
+	"message.mapChangeInSeconds": "{PREFIX} §7In §6#0# Sekunden §7wird die §eMap §7gewechselt.",
+	"message.mapChanged": "{PREFIX} §aEs wird nun auf der Map §6#0# §agespielt§8.",
+	
+	"message.mapPlayed": "{PREFIX} §7Es wird auf der Map §6#0# §7gespielt.",
+	"message.mapSelected": "{PREFIX} §aDu hast die Map §6#0# §aausgewählt§8.",
+	
+	"message.errorOccurred": "§cLeider ist ein Fehler aufgetreten. Versuche es bitte später nochmal!",
 	
 	#UI
 	"ui.button.close": "§4Schließen",
@@ -94,7 +113,7 @@
 	"message.playersVisible": "{PREFIX} §aDu kannst nun alle §fSpieler §asehen§8.",
 	"message.playersInVisible": "{PREFIX} §cDu kannst nun keine §fSpieler §cmehr sehen.",
 	"message.flyEnabled": "{PREFIX} §aDu kannst nun §ffliegen§8.",
-	"message.flyDisabled": "{PREFIX} §cDu kanst nun nicht länger §ffliegen§8."
+	"message.flyDisabled": "{PREFIX} §cDu kanst nun nicht länger §ffliegen§8.",
 	
 	#SecuritySystem
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cDu kannst §e#0#§c nicht bannen§8.",
@@ -121,5 +140,10 @@
 	"securitysystem.noAds": "{PREFIX} §cBitte sende keine Links§8.",
 	"securitysystem.alreadyBanned": "{PREFIX} §cDieser Spieler ist bereits gebannt§8.",
 	"securitysystem.alreadyMuted": "{PREFIX} §cDieser Spieler ist bereits gemutet§8.",
+	
+	#CoinSystem
+	"message.myCoins": "{PREFIX} §aDeine Coins: §6#0#",
+	"message.addedCoins": "{PREFIX} §aDu hast den Spieler §e#0# §6#1# Coins §agegeben§8.",
+	"message.removedCoins": "{PREFIX} §cDu hast den Spieler §e#0# §6#1# Coins §centfernt§8."
 	}
 }
