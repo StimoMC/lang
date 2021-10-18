@@ -124,8 +124,15 @@
 	"message.unChallengedBy": "{PREFIX} §r#0# §chat seine §eHerausforderung §czurückgezogen§8.",
 	"message.unChallenged": "{PREFIX} §cDu hast deine Herausforderung an §r#0# §czurückgezogen§8.",
 	
-	"message.equipNow": "{PREFIX} §cRüste dich nun aus§8."
+	"message.equipNow": "{PREFIX} §cRüste dich nun aus§8.",
 	
+	"message.cwAgainst": "{PREFIX} §cIhr spielt nun gegen den Clan §6#0#§8.",
+	"message.cwWon": "{PREFIX} §7Der Clan §2#0# §7hat gegen §c#1# §7gewonnen§8.",
+	"message.cwLose": "{PREFIX} §7Der Clan §c#0# §7hat gegen §2#1# §7gewonnen§8.",
+	"message.clanwars.won": "{PREFIX} §aIhr habt gegen den Clan §6#0# §agewonnen§8.",
+	"message.clanwars.lost": "{PREFIX} §cIhr habt gegen den Clan §6#0# §cverloren§8.",
+	
+	"title.cwAgainst": "§4#0# §8vs §1#1#",
 	"title.bedDestroyed": "§4Dein Bett\n§4wurde zerstört.",
 	
 	#UI
