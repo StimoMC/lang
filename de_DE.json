@@ -81,8 +81,6 @@
 	"message.languageChanged": "{PREFIX} §7Du hast deine Sprache zu §6#0# §7geändert§8.",
 	
 	#Game-Messages:
-	"message.destroyOwnBed": "{PREFIX} §cDu kannst dein eigenes §6Bett §4nicht zerstören§8.",
-	"message.bedNotExists": "{PREFIX} §4Dieses Bett exestiert nicht§8.",
 	"message.gameStarted": "{PREFIX} §aDas Spiel hat §ebegonnen§8.",
 	"message.gameEnded": "{PREFIX} §cDas Spiel wurde §ebeendet§8.",
 	
@@ -95,7 +93,7 @@
 	"message.nowSpectator": "{PREFIX} §cDu bist nun ein Zuschauer§8.",
 	"message.mapChangeInMinutes": "{PREFIX} §7In §6#0# Minuten §7wird die §eMap §7gewechselt.",
 	"message.mapChangeInSeconds": "{PREFIX} §7In §6#0# Sekunden §7wird die §eMap §7gewechselt.",
-	"message.mapChanged": "{PREFIX} §aEs wird nun auf der Map §6#0# §agespielt§8.",
+	"message.mapChanged": "{PREFIX} §aDie Map wurde gewechselt§8.",
 	
 	"message.mapPlayed": "{PREFIX} §7Es wird auf der Map §6#0# §7gespielt.",
 	"message.mapSelected": "{PREFIX} §aDu hast die Map §6#0# §aausgewählt§8.",
@@ -103,6 +101,7 @@
 	"message.teamSelected": "{PREFIX} §aDu hast das Team §r#0# §aausgewählt§8.",
 	"message.teamFull": "{PREFIX} §cDieses Team ist bereits voll§8.",
 	"message.alreadyInTeam": "{PREFIX} §4Du bist bereits in diesen Team§8.",
+	"message.teamCantJoin": "{PREFIX} §cDu kannst diesen Team nicht beitreten§8.",
 	
 	"message.roundsPlayed": "{PREFIX} §6Es werden §e#0# Runden §6gespielt§8.",
 	"message.youLost": "{PREFIX} §cDu hast verloren.",
@@ -113,6 +112,8 @@
 	"message.yourBedWasDestroyed": "{PREFIX} §4Dein Bett wurde von §r#0# §4zerstört§8.",
 	"message.bedDestroyed": "{PREFIX} §aDu hast das §6Bett §avon §r#0# §azerstört§8.",
 	"message.bedDestroyedBy": "{PREFIX} §aDas §6Bett §avon §r#0# §awurde von §r#0# §azerstört§8.",
+	"message.destroyOwnBed": "{PREFIX} §cDu kannst dein eigenes §6Bett §4nicht zerstören§8.",
+	"message.bedNotExists": "{PREFIX} §4Dieses Bett exestiert nicht§8.",
 	
 	"message.playerDied": "{PREFIX} §cDer Spieler §r#0# §cist gestorben§8.",
 	"message.playerKilledBy": "{PREFIX} §cDer Spieler §r#0# §cwurde von §r#0# §cgetötet§8.",
