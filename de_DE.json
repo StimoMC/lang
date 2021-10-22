@@ -12,8 +12,6 @@
 		
 	"raw.blue": "§1Blau",
 	"raw.blue.color": "§1",
-	"raw.green": "§2Grün",
-	"raw.green.color": "§2",
 	"raw.cyan": "§3Türkis",
 	"raw.cyan.color": "§3",
 	"raw.red": "§4Rot",
@@ -135,7 +133,7 @@
 	#ClanWars
 	"message.cwAgainst": "{PREFIX} §cIhr spielt nun gegen den Clan §6#0#§8.",
 	"message.cwWon": "{PREFIX} §7Der Clan §2#0# §7hat gegen §c#1# §7gewonnen§8.",
-	"message.cwLose": "{PREFIX} §7Der Clan §c#0# §7hat gegen §2#1# §7gewonnen§8.",
+	"message.cwLose": "{PREFIX} §7Der Clan §c#0# §7hat gegen §2#1# §7verloren§8.",
 	"message.clanwars.won": "{PREFIX} §aIhr habt gegen den Clan §6#0# §agewonnen§8.",
 	"message.clanwars.lost": "{PREFIX} §cIhr habt gegen den Clan §6#0# §cverloren§8.",
 	
