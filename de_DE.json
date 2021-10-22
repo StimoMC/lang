@@ -79,6 +79,7 @@
     "message.notEnoughCoins": "{PREFIX} §cDu hast zu wenig Coins§7.",
 	
 	"message.languageChanged": "{PREFIX} §7Du hast deine Sprache zu §6#0# §7geändert§8.",
+	"message.serverIsPrivate": "{PREFIX} §4Das ist ein §ePrivate-Server§8.",
 	
 	#Game-Messages:
 	"message.gameStarted": "{PREFIX} §aDas Spiel hat §ebegonnen§8.",
@@ -107,7 +108,7 @@
 	"message.youLost": "{PREFIX} §cDu hast verloren.",
 	"message.youWon": "{PREFIX} §aDu hast gewonnen.",
 	"message.teamWon": "{PREFIX} §aDas Team §r#0# §ahat gewonnen§8.",
-	"message.enemyWon": "",
+	"message.enemyWon": "{PREFIX} §cDein §4Gegner §chat das Spiel gewonnen§8.",
 	
 	"message.yourBedWasDestroyed": "{PREFIX} §4Dein Bett wurde von §r#0# §4zerstört§8.",
 	"message.bedDestroyed": "{PREFIX} §aDu hast das §6Bett §avon §r#0# §azerstört§8.",
@@ -126,6 +127,8 @@
 	"message.unChallenged": "{PREFIX} §cDu hast deine Herausforderung an §r#0# §czurückgezogen§8.",
 	
 	"message.equipNow": "{PREFIX} §cRüste dich nun aus§8.",
+	
+	"message.statsDisabled": "{PREFIX} §eStats §csind auf diesen Server deaktiviert.",
 	
 	"title.bedDestroyed": "§4Dein Bett\n§4wurde zerstört.",
 	
