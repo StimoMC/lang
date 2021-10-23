@@ -127,6 +127,9 @@
 	"message.equipNow": "{PREFIX} §cEquip yourself now§8.",
 	
 	"message.statsDisabled": "{PREFIX} §eStats §care disabled on this server.",
+	"message.autoJoinTeam": "{PREFIX} §7You automatically became the team §r#0# §7assigned.",
+	"message.playerJoined:": "§l§a» §r#0#",
+	"message.playerLeft": "§l§c« §r#0#",
 	
 	"title.bedDestroyed": "§4Your bed\n§4was destroyed.",
 	
