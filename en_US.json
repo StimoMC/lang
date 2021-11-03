@@ -5,7 +5,6 @@
 	
 	"values": {
 	
-	#Defaults
 	"scoreboard.starting.soon": "§cStarting soon...",
 	"scoreboard.starting.in": "§aStarting in §d#0#§c...",
 	"scoreboard.playersLeft": "§cPlayers remaining§7: §d#0#",
@@ -79,7 +78,6 @@
 	"message.languageChanged": "{PREFIX} §7You have changed your language to §6#0#§8.",
 	"message.serverIsPrivate": "{PREFIX} §4This is a §ePrivate-Server§8.",
 	
-	#Game-Messages:
 	"message.gameStarted": "{PREFIX} §aThe game has §estarted§8.",
 	"message.gameEnded": "{PREFIX} §cThe game has §eended§8.",
 	
@@ -133,7 +131,6 @@
 	
 	"title.bedDestroyed": "§4Your bed\n§4was destroyed.",
 	
-	#ClanWars
 	"message.cwAgainst": "{PREFIX} §cYou are now playing against the clan §6#0#§8.",
 	"message.cwWon": "{PREFIX} §7The clan §2#0# §7has won against §c#1#§8.",
 	"message.cwLose": "{PREFIX} §7The clan §c#0# §7has lost against §2#1#§8.",
@@ -142,7 +139,6 @@
 	
 	"title.cwAgainst": "§4#0# §8vs §1#1#",
 	
-	#UI
 	"ui.content.editSize": "§eChange your size",
 	"ui.content.fly": "§eFly Tool",
 	
@@ -171,7 +167,6 @@
 	
 	"ui.title.enchanting": "§5Enchant",
 	
-	#LobbySystem
 	"message.sizeSmall": "{PREFIX} §cYou are now §fSMALL8.",
 	"message.sizeNormal": "{PREFIX} §cYou are now §fNORMAL§8.",
 	"message.sizeBig": "{PREFIX} §cYou are now §fBIG§8.",
@@ -181,7 +176,6 @@
 	"message.flyEnabled": "{PREFIX} §aYou can now §ffly§8.",
 	"message.flyDisabled": "{PREFIX} §cYou can no longer §ffly8.",
 	
-	#SecuritySystem
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cYou can't ban §e#0#§8.",
 	"securitysystem.banWasSuccessfull": "{PREFIX} §aYou have banned §e#0# §abecause of §e#1#§8.",
 	"securitysystem.youCannotMuteBypass": "{PREFIX} §cYou can't mute §e#0#§8.",
@@ -208,7 +202,7 @@
 	"securitysystem.alreadyMuted": "{PREFIX} §cThis player is already muted§8.",
 	
 	"securitysystem.reason.cheating": "Cheating",
-	"securitysystem.reason.racism": "Rassismus",
+	"securitysystem.reason.racism": "Racism",
 	"securitysystem.reason.unallowed_skin": "Unallowed Skin",
 	"securitysystem.reason.unallowed_name": "Unallowed Name",
 	"securitysystem.reason.report_abuse": "Report abuse",
@@ -220,7 +214,6 @@
 	"securitysystem.reason.spamming": "Spamming",
 	"securitysystem.reason.provocation": "Provoation",
 	
-	#CoinSystem
 	"message.myCoins": "{PREFIX} §aYour Coins: §6#0#",
 	"message.addedCoins": "{PREFIX} §aYou have the player §e#0# §6#1# coins §agiven§8.",
 	"message.removedCoins": "{PREFIX} §cYou have the player §e#0# §6#1# coins §cremoved§8."
