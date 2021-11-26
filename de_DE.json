@@ -61,6 +61,8 @@
 	
 	"raw.loading": "Laden...",
 	
+	"message.serverIsPrivate": "{PREFIX} §cDas ist ein §ePrivate-Server§c.\n§cStats sind hier deaktiviert.",
+	
 	"message.needHigherRank": "§cDu benötigst ein höheren Rang um das zu tun.",
 	"message.canBuild": "§aDu kannst nun bauen.",
 	"message.canNoLongerBuild": "§cDu kannst nun nicht mehr bauen.",
@@ -76,7 +78,6 @@
     "message.notEnoughCoins": "{PREFIX} §cDu hast zu wenig Coins§7.",
 	
 	"message.languageChanged": "{PREFIX} §7Du hast deine Sprache zu §6#0# §7geändert§8.",
-	"message.serverIsPrivate": "{PREFIX} §4Das ist ein §ePrivate-Server§8.",
 	
 	"message.gameStarted": "{PREFIX} §aDas Spiel hat §ebegonnen§8.",
 	"message.gameEnded": "{PREFIX} §cDas Spiel wurde §ebeendet§8.",

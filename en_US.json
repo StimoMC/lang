@@ -61,6 +61,8 @@
 	
 	"raw.loading": "Loading...",
 	
+	"message.serverIsPrivate": "{PREFIX} §cThis is a §ePrivate-Server§c.\n§cStats are disabled here.",
+	
 	"message.needHigherRank": "§cYou need a higher rank to do that.",
 	"message.canBuild": "§aYou can now build.",
 	"message.canNoLongerBuild": "§cYou can no longer build.",
@@ -76,7 +78,6 @@
     "message.notEnoughCoins": "{PREFIX} §cYou have too few coins§7.",
 	
 	"message.languageChanged": "{PREFIX} §7You have changed your language to §6#0#§8.",
-	"message.serverIsPrivate": "{PREFIX} §4This is a §ePrivate-Server§8.",
 	
 	"message.gameStarted": "{PREFIX} §aThe game has §estarted§8.",
 	"message.gameEnded": "{PREFIX} §cThe game has §eended§8.",
