@@ -126,7 +126,7 @@
 	"message.equipNow": "{PREFIX} §cRüste dich nun aus§8.",
 	
 	"message.statsDisabled": "{PREFIX} §eStats §csind auf diesen Server deaktiviert.",
-	"message.autoJoinTeam": "{PREFIX} §7Du wurdest automatisch den Team §r#0# §7zugewiesen.",
+	"message.autoJoinTeam": "{PREFIX} §7Du wurdest automatisch dem Team §r#0# §7zugewiesen.",
 	"message.playerJoined:": "§l§a» §r#0#",
 	"message.playerLeft": "§l§c« §r#0#",
 	
