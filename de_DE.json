@@ -114,7 +114,7 @@
 	"message.bedNotExists": "{PREFIX} §4Dieses Bett exestiert nicht§8.",
 	
 	"message.playerDied": "{PREFIX} §cDer Spieler §r#0# §cist gestorben§8.",
-	"message.playerKilledBy": "{PREFIX} §cDer Spieler §r#0# §cwurde von §r#0# §cgetötet§8.",
+	"message.playerKilledBy": "{PREFIX} §cDer Spieler §r#0# §cwurde von §r#1# §cgetötet§8.",
 	"message.youDied": "{PREFIX} §cDu bist gestorben§8.",
 	"message.youKilledBy": "{PREFIX} §cDu wurdest von §r#0# §cgetötet§8.",
 	"message.youKilled": "{PREFIX} §aDu hast §r#0# §agetötet§8.",
