@@ -217,6 +217,18 @@
 	
 	"message.myCoins": "{PREFIX} §aYour Coins: §6#0#",
 	"message.addedCoins": "{PREFIX} §aYou have the player §e#0# §6#1# coins §agiven§8.",
-	"message.removedCoins": "{PREFIX} §cYou have the player §e#0# §6#1# coins §cremoved§8."
+	"message.removedCoins": "{PREFIX} §cYou have the player §e#0# §6#1# coins §cremoved§8.",
+	
+	"clanwar.queue.notInParty": "{PREFIX} §cYou are currently not in a §4Clan Party§8.\n§7Use §e/cp§7 to create a §4Clan Party§8.",
+	"clanwar.queue.notClanLeader": "{PREFIX} §cYou must be the clan leader to enter the cue§8.",
+	"clanwar.queue.alreadyInClanWar": "{PREFIX} §cYour clan is already in a ClanWar§8.",
+	"clanwar.queue.notInClan": "{PREFIX} §cYou are not in any clan§8.",
+	"clanwar.queue.notEnoughPlayers": "{PREFIX} §cThere are not enough players in the §4Clan party§8.",
+	"clanwar.queue.enemyClanFound": "{PREFIX} §aAnother clan was found§8.",
+	"clanwars.game.won": "{PREFIX} §aYour Clan has won the §4ClanWar§8.",
+	"clanwar.game.started": "{PREFIX} §aThe game has begun§8.",
+	"clanwars.game.started.title": "§l§4ClanWars",
+	"clanwars.clan.elo.loose": "{PREFIX} §cYour clan lost the game and §e#0# Elo §cwere deducted§8.",
+	"clanwars.clan.elo.win": "{PREFIX} §aYour clan won the game and got §e#0# Elo§8."
 	}
 }
