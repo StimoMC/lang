@@ -109,7 +109,7 @@
 	
 	"message.yourBedWasDestroyed": "{PREFIX} §4Dein Bett wurde von §r#0# §4zerstört§8.",
 	"message.bedDestroyed": "{PREFIX} §aDu hast das §6Bett §avon §r#0# §azerstört§8.",
-	"message.bedDestroyedBy": "{PREFIX} §aDas §6Bett §avon §r#0# §awurde von §r#0# §azerstört§8.",
+	"message.bedDestroyedBy": "{PREFIX} §aDas §6Bett §avon §r#0# §awurde von §r#1# §azerstört§8.",
 	"message.destroyOwnBed": "{PREFIX} §cDu kannst dein eigenes §6Bett §4nicht zerstören§8.",
 	"message.bedNotExists": "{PREFIX} §4Dieses Bett exestiert nicht§8.",
 	
