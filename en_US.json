@@ -175,7 +175,7 @@
 	"message.playersVisible": "{PREFIX} §aYou can now see all §fplayers§8.",
 	"message.playersInVisible": "{PREFIX} §cAll §fplayers §care now hidden.",
 	"message.flyEnabled": "{PREFIX} §aYou can now §ffly§8.",
-	"message.flyDisabled": "{PREFIX} §cYou can no longer §ffly8.",
+	"message.flyDisabled": "{PREFIX} §cYou can no longer §ffly§8.",
 	
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cYou can't ban §e#0#§8.",
 	"securitysystem.banWasSuccessfull": "{PREFIX} §aYou have banned §e#0# §abecause of §e#1#§8.",
