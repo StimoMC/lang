@@ -168,6 +168,25 @@
 	
 	"ui.title.enchanting": "§5Enchant",
 	
+	"ui.button.clans.create": "§aClan create",
+	"ui.button.clans.requests": "§aClan requests",
+	"ui.button.clans.info": "§eClan Info",
+	"ui.button.clans.invite": "§eInvite",
+	"ui.button.clans.manage": "§cManage Clan",
+	"ui.button.clans.leave": "§cClan leave",
+	"ui.button.clans.search": "§aClan search",
+	"ui.button.back": "§cBack",
+	"ui.button.confirm": "§aAccept",
+	"ui.button.clans.manage.image": "§eClan Image",
+	"ui.button.clans.manage.tag_color": "§eTag Color",
+	"ui.button.clans.manage.clam_color": "§eClam Color",
+	"ui.button.clans.manage.members": "§cManage Members",
+	"ui.button.clans.manage.delete": "§4Delete Clan",
+	
+	"ui.title.clans": "§4Clans",
+	"ui.error.clans.inputIsTooLong": "Text is too long.",
+	"ui.text.noPlayersFound": "No player found.",
+	
 	"message.sizeSmall": "{PREFIX} §cYou are now §fSMALL§8.",
 	"message.sizeNormal": "{PREFIX} §cYou are now §fNORMAL§8.",
 	"message.sizeBig": "{PREFIX} §cYou are now §fBIG§8.",
