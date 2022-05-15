@@ -175,9 +175,24 @@
 	"ui.button.clans.manage.members": "§cManage Members",
 	"ui.button.clans.manage.delete": "§4Delete Clan",
 	
+	"ui.button.settings": "Einstellungen",
+	"ui.button.maps": "Karten",
+	"ui.button.showCoordinates": "Zeige Position",
+	
 	"ui.title.clans": "§4Clans",
 	"ui.error.clans.inputIsTooLong": "Eingabe ist zu lang.",
 	"ui.text.noPlayersFound": "Keine Spieler gefunden.",
+	
+	"message.alreadyInTeam": "{PREFIX} §cDu bist bereits in diesen §dTeam§8.",
+	"message.teamIsFull": "{PREFIX} §cDieses §dTeam§c ist bereits voll§8.",
+	"message.notInGame": "{PREFIX} §4Du bist nicht §cInGame§8.",
+	
+	"message.alreadyVoted": "{PREFIX} §cDu hast bereits gevotet§8.",
+	"message.voteForItemDrops": "{PREFIX} §aDu hast für §7Item Drops §agevotet§8.",
+	"message.devoteForItemDrops": "{PREFIX} §cDu hast gegen §7Item Drops §cgevotet§8.",
+	
+	"message.voteForGold": "{PREFIX} §aDu hast für §6Gold §agevotet§8.",
+	"message.devoteForGold": "{PREFIX} §cDu hast gegen §6Gold §cgevotet§8.",
 	
 	"message.sizeSmall": "{PREFIX} §cDu bist nun §fKLEIN§8.",
 	"message.sizeNormal": "{PREFIX} §cDu bist nun §fNORMAL§8.",
