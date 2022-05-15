@@ -189,6 +189,13 @@
 	"message.notRunning": "{PREFIX} §cThe round is not running§7.",
 	"message.notClanWars": "{PREFIX} §cThis is not a clanwars match§7.",
 	
+	"message.clanJoinedQueue": "{PREFIX} §aYour clan has joined the queue§7.",
+	"message.clanLeftQueue": "{PREFIX} §cYour clan has left the queue§7.",
+	
+	"message.notInClan": "{PREFIX} §cYou are not in an clan§7.",
+	"message.notClanLeader": "{PREFIX} §cYou are not the clan leader§7.",
+	"message.notEnoughPlayersForCw": "{PREFIX} §cYou have not selected enough members for a clanwar§7.\n§e#0# §cmembers are needed§7.",
+	
 	"message.alreadyVoted": "{PREFIX} §cYou have already voted§8.",
 	"message.voteForItemDrops": "{PREFIX} §aYou have voted for §7Item Drops§8.",
 	"message.devoteForItemDrops": "{PREFIX} §cYou have voted against §7Item Drops§8.",

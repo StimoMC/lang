@@ -191,6 +191,13 @@
 	"message.notRunning": "{PREFIX} §cDie runde läuft noch nicht§7.",
 	"message.notClanWars": "{PREFIX} §cDas ist kein ClanWars match§7.",
 	
+	"message.clanJoinedQueue": "{PREFIX} §aDein Clan hat die Queue betreten§7.",
+	"message.clanLeftQueue": "{PREFIX} §cDein clan hat die Queue verlassen§7.",
+	
+	"message.notInClan": "{PREFIX} §cDu bist in keinen clan§7.",
+	"message.notClanLeader": "{PREFIX} §cDu bist nicht der clan leader§7.",
+	"message.notEnoughPlayersForCw": "{PREFIX} §cDu hast nicht genügend Member für einen Clanwar ausgewählt§7.\n§cEs werden §e#0# §cMember benötigt§7.",
+	
 	"message.alreadyVoted": "{PREFIX} §cDu hast bereits gevotet§8.",
 	"message.voteForItemDrops": "{PREFIX} §aDu hast für §7Item Drops §agevotet§8.",
 	"message.devoteForItemDrops": "{PREFIX} §cDu hast gegen §7Item Drops §cgevotet§8.",
