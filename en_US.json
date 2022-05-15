@@ -107,11 +107,9 @@
 	"message.teamWon": "{PREFIX} §aThe team §r#0# §ahas won§8.",
 	"message.enemyWon": "{PREFIX} §cYour §4enemy §chas won this game§8.",
 	
-	"message.yourBedWasDestroyed": "{PREFIX} §4Your bed was destroyed by §r#0#§8.",
-	"message.bedDestroyed": "{PREFIX} §aYou have destroyed the §6bed §aof §r#0#§8.",
-	"message.bedDestroyedBy": "{PREFIX} §aThe §6bed §aof §r#0# §awas destroyed by §r#1#§8.",
-	"message.destroyOwnBed": "{PREFIX} §cYou can't destroy your own §6bed§8.",
-	"message.bedNotExists": "{PREFIX} §4This bed don't exists§8.",
+	"message.bedWasDestroyed": "{PREFIX} §4Your bed was destroyed by§8.",
+	"message.bedWasDestroyedBy": "{PREFIX} §aThe bed §aof §r#0# §awas destroyed by §r#1#§8.",
+	"message.cannotDestroyOwnBed": "{PREFIX} §cYou can't destroy your own §6bed§8.",
 	
 	"message.playerDied": "{PREFIX} §cThe player §r#0# §cdied§8.",
 	"message.playerKilledBy": "{PREFIX} §cThe player §r#0# §cwas killed by §r#1#§8.",
@@ -129,16 +127,6 @@
 	"message.autoJoinTeam": "{PREFIX} §7You automatically became the team §r#0# §7assigned.",
 	"message.playerJoined:": "§l§a» §r#0#",
 	"message.playerLeft": "§l§c« §r#0#",
-	
-	"title.bedDestroyed": "§4Your bed\n§4was destroyed.",
-	
-	"message.cwAgainst": "{PREFIX} §cYou are now playing against the clan §6#0#§8.",
-	"message.cwWon": "{PREFIX} §7The clan §2#0# §7has won against §c#1#§8.",
-	"message.cwLose": "{PREFIX} §7The clan §c#0# §7has lost against §2#1#§8.",
-	"message.clanwars.won": "{PREFIX} §aYou have against the clan §6#0# §awon§8.",
-	"message.clanwars.lost": "{PREFIX} §cYou have against the clan §6#0# §clost§8.",
-	
-	"title.cwAgainst": "§4#0# §8vs §1#1#",
 	
 	"ui.content.editSize": "§8•● §eChange your size",
 	"ui.content.fly": "§8•● §eFly Tool",
@@ -194,10 +182,21 @@
 	"message.alreadyInTeam": "{PREFIX} §cYou are already in this §dTeam§8.",
 	"message.teamIsFull": "{PREFIX} §cThis §dTeam§c is already full§8.",
 	"message.notInGame": "{PREFIX} §4You are not §cInGame§8.",
+	"message.gameIsNotStarting": "{PREFIX} §cThe game is not starting§7.",
+	"message.gameWasAlreadySkipped": "{PREFIX} §cThe waiting time was already skipped§7.",
+	"message.gameWasSkipped": "{PREFIX} §aYou have skipped the waiting time§7.",
+	"message.notPlaying": "{PREFIX} §cYou are a spectator§7.",
+	"message.notRunning": "{PREFIX} §cThe round is not running§7.",
+	"message.notClanWars": "{PREFIX} §cThis is not a clanwars match§7.",
 	
 	"message.alreadyVoted": "{PREFIX} §cYou have already voted§8.",
 	"message.voteForItemDrops": "{PREFIX} §aYou have voted for §7Item Drops§8.",
 	"message.devoteForItemDrops": "{PREFIX} §cYou have voted against §7Item Drops§8.",
+	
+	"message.bedwars.teleportingInSeconds": "{PREFIX} §7You will be teleported in §e#0# §7seconds.",
+	"message.bedwars.baseTeleportingWasCancelled": "{PREFIX} §cThe teleport was cancelled§7.",
+	
+	"message.enemyLeftGameWillEntIn": "{PREFIX} §cYour enemy has left the round§7. §cThe round will end in §e#0# #1#§7.",
 	
 	"message.sizeSmall": "{PREFIX} §cYou are now §fSMALL§8.",
 	"message.sizeNormal": "{PREFIX} §cYou are now §fNORMAL§8.",

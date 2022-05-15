@@ -107,11 +107,9 @@
 	"message.teamWon": "{PREFIX} §aDas Team §r#0# §ahat gewonnen§8.",
 	"message.enemyWon": "{PREFIX} §cDein §4Gegner §chat das Spiel gewonnen§8.",
 	
-	"message.yourBedWasDestroyed": "{PREFIX} §4Dein Bett wurde von §r#0# §4zerstört§8.",
-	"message.bedDestroyed": "{PREFIX} §aDu hast das §6Bett §avon §r#0# §azerstört§8.",
-	"message.bedDestroyedBy": "{PREFIX} §aDas §6Bett §avon §r#0# §awurde von §r#1# §azerstört§8.",
-	"message.destroyOwnBed": "{PREFIX} §cDu kannst dein eigenes §6Bett §4nicht zerstören§8.",
-	"message.bedNotExists": "{PREFIX} §4Dieses Bett exestiert nicht§8.",
+	"message.bedWasDestroyed": "{PREFIX} §4Dein Bett wurde zerstört§8.",
+	"message.bedWasDestroyedBy": "{PREFIX} §aDas Bett §avon §r#0# §awurde von §r#1# §azerstört§8.",
+	"message.cannotDestroyOwnBed": "{PREFIX} §cDu kannst dein eigenes §6Bett §4nicht zerstören§8.",
 	
 	"message.playerDied": "{PREFIX} §cDer Spieler §r#0# §cist gestorben§8.",
 	"message.playerKilledBy": "{PREFIX} §cDer Spieler §r#0# §cwurde von §r#1# §cgetötet§8.",
@@ -186,6 +184,12 @@
 	"message.alreadyInTeam": "{PREFIX} §cDu bist bereits in diesen §dTeam§8.",
 	"message.teamIsFull": "{PREFIX} §cDieses §dTeam§c ist bereits voll§8.",
 	"message.notInGame": "{PREFIX} §4Du bist nicht §cInGame§8.",
+	"message.gameIsNotStarting": "{PREFIX} §cDas spiel startet noch nicht§7.",
+	"message.gameWasAlreadySkipped": "{PREFIX} §cDie Wartezeit wurde bereits übersprungen§7.",
+	"message.gameWasSkipped": "{PREFIX} §aDu hast die Wartezeit übersprungen§7.",
+	"message.notPlaying": "{PREFIX} §cDu bist ein Zuschauer§7.",
+	"message.notRunning": "{PREFIX} §cDie runde läuft noch nicht§7.",
+	"message.notClanWars": "{PREFIX} §cDas ist kein ClanWars match§7.",
 	
 	"message.alreadyVoted": "{PREFIX} §cDu hast bereits gevotet§8.",
 	"message.voteForItemDrops": "{PREFIX} §aDu hast für §7Item Drops §agevotet§8.",
@@ -193,6 +197,11 @@
 	
 	"message.voteForGold": "{PREFIX} §aDu hast für §6Gold §agevotet§8.",
 	"message.devoteForGold": "{PREFIX} §cDu hast gegen §6Gold §cgevotet§8.",
+	
+	"message.bedwars.teleportingInSeconds": "{PREFIX} §7Du wirst in §e#0# §7Sekunden teleportiert.",
+	"message.bedwars.baseTeleportingWasCancelled": "{PREFIX} §cDer Teleport wurde abgebrochen§7.",
+	
+	"message.enemyLeftGameWillEntIn": "{PREFIX} §cDein Gegner hat die Runde verlassen§7. §cDie Runde endet in §e#0# #1#§7.",
 	
 	"message.sizeSmall": "{PREFIX} §cDu bist nun §fKLEIN§8.",
 	"message.sizeNormal": "{PREFIX} §cDu bist nun §fNORMAL§8.",
