@@ -257,6 +257,10 @@
 	"securitysystem.reason.spamming": "Spamming",
 	"securitysystem.reason.provocation": "Provokation",
 	
+	"securitysystem.reason.ban_bypass": "Banumgehung",
+	"securitysystem.reason.provocation": "Bugusing",
+	"securitysystem.reason.sexual_content": "Sexuelle Inhalte",
+	
 	"message.myCoins": "{PREFIX} §aDeine Coins: §6#0#",
 	"message.addedCoins": "{PREFIX} §aDu hast den Spieler §e#0# §6#1# Coins §agegeben§8.",
 	"message.removedCoins": "{PREFIX} §cDu hast den Spieler §e#0# §6#1# Coins §centfernt§8.",
@@ -270,6 +274,14 @@
 	"message.playerIsInClan": "{PREFIX} §cDieser Spieler ist bereits in einen Clan§8.",
 	"message.playerIsInSameClan": "{PREFIX} §cDieser Spieler ist bereits in deinen Clan§8.",
 	"message.clanIsFull": "{PREFIX} §cDein Clan ist voll§8.",
-	"message.clanWasCreated": "{PREFIX} §aDein Clan §e#0#§8[§e#1#§8] §awurde erstellt§8."
+	"message.clanWasCreated": "{PREFIX} §aDein Clan §e#0#§8[§e#1#§8] §awurde erstellt§8.",
+	
+	"message.alivePlayers": "{PREFIX} §7Es sind noch §e#0# §7Spieler am leben.",
+	"message.hasWon": "{PREFIX} §aDer Spieler §e#0# §ahat gewonnen§7.",
+	
+	"message.safeTimeEnding": "{PREFIX} §7Die Schutzzeit endet in §e#0# Sekunden§7.",
+	"message.pvpEnabled": "{PREFIX} §cPvP ist nun aktiviert§7.",
+	"message.gameEndsMinutes": "{PREFIX} §7Das Spiel endet in §e#0# Minuten§7.",
+	"message.gameEndsSeconds": "{PREFIX} §7Das Spiel endet in §e#0# Sekunden§7."
 	}
 }

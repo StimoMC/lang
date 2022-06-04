@@ -252,6 +252,10 @@
 	"securitysystem.reason.spamming": "Spamming",
 	"securitysystem.reason.provocation": "Provoation",
 	
+	"securitysystem.reason.ban_bypass": "Ban Bypass",
+	"securitysystem.reason.provocation": "Bugusing",
+	"securitysystem.reason.sexual_content": "Sexual Content",
+	
 	"message.myCoins": "{PREFIX} §aYour Coins: §6#0#",
 	"message.addedCoins": "{PREFIX} §aYou have the player §e#0# §6#1# coins §agiven§8.",
 	"message.removedCoins": "{PREFIX} §cYou have the player §e#0# §6#1# coins §cremoved§8.",
@@ -266,6 +270,14 @@
 	"clanwar.game.started": "{PREFIX} §aThe game has begun§8.",
 	"clanwars.game.started.title": "§l§4ClanWars",
 	"clanwars.clan.elo.loose": "{PREFIX} §cYour clan lost the game and §e#0# Elo §cwere deducted§8.",
-	"clanwars.clan.elo.win": "{PREFIX} §aYour clan won the game and got §e#0# Elo§8."
+	"clanwars.clan.elo.win": "{PREFIX} §aYour clan won the game and got §e#0# Elo§8.",
+	
+	"message.alivePlayers": "{PREFIX} §7There are §e#0# §7players alive.",
+	"message.hasWon": "{PREFIX} §aThe player §e#0# §ahas won§7.",
+	
+	"message.safeTimeEnding": "{PREFIX} §7The savetime is ending in §e#0# seconds§8.",
+	"message.pvpEnabled": "{PREFIX} §cPvP is now enabled§7.",
+	"message.gameEndsMinutes": "{PREFIX} §7The game ends in §e#0# minutes§7.",
+	"message.gameEndsSeconds": "{PREFIX} §7The game ends in §e#0# seconds§7."
 	}
 }
