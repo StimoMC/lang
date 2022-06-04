@@ -128,9 +128,6 @@
 	"message.playerJoined:": "§l§a» §r#0#",
 	"message.playerLeft": "§l§c« §r#0#",
 	
-	"ui.content.editSize": "§8•● §eChange your size",
-	"ui.content.fly": "§8•● §eFly Tool",
-	
 	"ui.button.close": "§8•● §4Close",
 	"ui.button.sizeSmall": "§8•● §fSmall",
 	"ui.button.sizeNormal": "§8•● §fNormal",
@@ -253,7 +250,7 @@
 	"securitysystem.reason.provocation": "Provoation",
 	
 	"securitysystem.reason.ban_bypass": "Ban Bypass",
-	"securitysystem.reason.provocation": "Bugusing",
+	"securitysystem.reason.bugusing": "Bugusing",
 	"securitysystem.reason.sexual_content": "Sexual Content",
 	
 	"message.myCoins": "{PREFIX} §aYour Coins: §6#0#",

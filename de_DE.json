@@ -128,11 +128,6 @@
 	"message.playerJoined:": "§l§a» §r#0#",
 	"message.playerLeft": "§l§c« §r#0#",
 	
-	"title.bedDestroyed": "§4Dein Bett\n§4wurde zerstört.",
-	
-	"ui.content.editSize": "§8•● §eÄndere deine größe",
-	"ui.content.fly": "§8•● §eFly Tool",
-	
 	"ui.button.close": "§8•● §4Schließen",
 	"ui.button.sizeSmall": "§8•● §fKlein",
 	"ui.button.sizeNormal": "§8•● §fNormal",
@@ -258,7 +253,7 @@
 	"securitysystem.reason.provocation": "Provokation",
 	
 	"securitysystem.reason.ban_bypass": "Banumgehung",
-	"securitysystem.reason.provocation": "Bugusing",
+	"securitysystem.reason.bugusing": "Bugusing",
 	"securitysystem.reason.sexual_content": "Sexuelle Inhalte",
 	
 	"message.myCoins": "{PREFIX} §aDeine Coins: §6#0#",
