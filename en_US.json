@@ -182,6 +182,8 @@
 	
 	"ui.title.settings": "§cSettings",
 	"ui.title.selectStick": "§eChoose a Stick",
+	"ui.title.stats": "§bStats",
+	"ui.title.spectate": "Spectate",
 	
 	"message.alreadyInTeam": "{PREFIX} §cYou are already in this §dTeam§8.",
 	"message.teamIsFull": "{PREFIX} §cThis §dTeam§c is already full§8.",
@@ -282,6 +284,14 @@
 	"message.safeTimeEnding": "{PREFIX} §7The savetime is ending in §e#0# seconds§8.",
 	"message.pvpEnabled": "{PREFIX} §cPvP is now enabled§7.",
 	"message.gameEndsMinutes": "{PREFIX} §7The game ends in §e#0# minutes§7.",
-	"message.gameEndsSeconds": "{PREFIX} §7The game ends in §e#0# seconds§7."
+	"message.gameEndsSeconds": "{PREFIX} §7The game ends in §e#0# seconds§7.",
+	
+	"message.duelPlayerLeft": "{PREFIX} §cYour enemy §e#0# §chas left the round§8.",
+	"message.endGame": "{PREFIX} §aThe game was finished§8.",
+	"message.winOther": "{PREFIX} §aThe player §e#0# §ahas won the round§8.",
+	"message.yourEnemyIs": "{PREFIX} §aYou play against §e#0#§8.",
+	"message.cannotPlaceBlocksHere": "{PREFIX} §cYou cannot place blocks here§8.",
+	"message.cannotPlaceBlocksAtSpawn": "{PREFIX} §cYou can not place blocks at the spawn§8.",
+	"message.allMapsAreFull": "{PREFIX} §cAll maps are full§8."
 	}
 }
