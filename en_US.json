@@ -107,9 +107,11 @@
 	"message.teamWon": "{PREFIX} §aThe team §r#0# §ahas won§8.",
 	"message.enemyWon": "{PREFIX} §cYour §4enemy §chas won this game§8.",
 	
-	"message.bedWasDestroyed": "{PREFIX} §4Your bed was destroyed by§8.",
-	"message.bedWasDestroyedBy": "{PREFIX} §aThe bed §aof §r#0# §awas destroyed by §r#1#§8.",
-	"message.cannotDestroyOwnBed": "{PREFIX} §cYou can't destroy your own §6bed§8.",
+	"message.yourBedWasDestroyed": "{PREFIX} §4Your bed was destroyed by §r#0#§8.",
+	"message.bedDestroyed": "{PREFIX} §aYou have destroyed the §6bed §aof §r#0#§8.",
+	"message.bedDestroyedBy": "{PREFIX} §aThe §6bed §aof §r#0# §awas destroyed by §r#1#§8.",
+	"message.destroyOwnBed": "{PREFIX} §cYou can't destroy your own §6bed§8.",
+	"message.bedNotExists": "{PREFIX} §4This bed don't exists§8.",
 	
 	"message.playerDied": "{PREFIX} §cThe player §r#0# §cdied§8.",
 	"message.playerKilledBy": "{PREFIX} §cThe player §r#0# §cwas killed by §r#1#§8.",
@@ -117,6 +119,7 @@
 	"message.youKilledBy": "{PREFIX} §cYou was killed by §r#0#§8.",
 	"message.youKilled": "{PREFIX} §aYou have killed §r#0#§8.",
 	
+	"message.challenged": "{PREFIX} §aYou have challenged §e#0#§8.",
 	"message.challengedBy": "{PREFIX} §aYou was challenged by §r#0#§8.",
 	"message.unChallengedBy": "{PREFIX} §r#0# §chas withdrawn its §echallenge§8.",
 	"message.unChallenged": "{PREFIX} §cYou withdrew your challenge to §r#0#§8.",
@@ -127,6 +130,19 @@
 	"message.autoJoinTeam": "{PREFIX} §7You automatically became the team §r#0# §7assigned.",
 	"message.playerJoined:": "§l§a» §r#0#",
 	"message.playerLeft": "§l§c« §r#0#",
+	
+	"title.bedDestroyed": "§4Your bed\n§4was destroyed.",
+	
+	"message.cwAgainst": "{PREFIX} §cYou are now playing against the clan §6#0#§8.",
+	"message.cwWon": "{PREFIX} §7The clan §2#0# §7has won against §c#1#§8.",
+	"message.cwLose": "{PREFIX} §7The clan §c#0# §7has lost against §2#1#§8.",
+	"message.clanwars.won": "{PREFIX} §aYou have against the clan §6#0# §awon§8.",
+	"message.clanwars.lost": "{PREFIX} §cYou have against the clan §6#0# §clost§8.",
+	
+	"title.cwAgainst": "§4#0# §8vs §1#1#",
+	
+	"ui.content.editSize": "§8•● §eChange your size",
+	"ui.content.fly": "§8•● §eFly Tool",
 	
 	"ui.button.close": "§8•● §4Close",
 	"ui.button.sizeSmall": "§8•● §fSmall",
@@ -144,6 +160,9 @@
 	"ui.button.disableFly": "§8•● §cDeactivate",
 	
 	"ui.text.stats.getdown": "§7Rounds: §e#0#\n§7Kills: §e#1#\n§7Deats: §e#2#\n§7K / D: §e#3#\n§7Won games: §e#4#\n§7Lost games: §e#5#\n§7Win chance: §e#6#",
+	"ui.text.stats.bedwars": "§eRounds: §9#0#\n§eKills: §9#1#\n§eDeaths: §9#2#\n§eK/D: §9#3#\n§eWins: §9#4#\n§eDefeats: §9#5#\n§eDestroyed beds: §9#6#\n\n§eWin-Chance: §9#7#",
+	"ui.text.stats.mlgrush": "§eRounds: §9#0#\n§eKills: §9#1#\n§eDeaths: §9#2#\n§eK/D: §9#3#\n§eWins: §9#4#\n§eDefeats: §9#5#\n§eDestroyed beds: §9#6#\n\n§eWin-Chance: §9#7#",
+	
 	"ui.text.playersPerTeam": "§8•● §2Player per team",
 	"ui.text.voteForDrops": "§8•● §7Item Drops",
 	"ui.text.voteForGold": "§8•● §6Gold Voting",
@@ -168,39 +187,12 @@
 	"ui.button.clans.manage.members": "§cManage Members",
 	"ui.button.clans.manage.delete": "§4Delete Clan",
 	
-	"ui.button.settings": "Settings",
-	"ui.button.maps": "Maps",
-	"ui.button.showCoordinates": "Show Position",
-	
 	"ui.title.clans": "§4Clans",
 	"ui.error.clans.inputIsTooLong": "Text is too long.",
 	"ui.text.noPlayersFound": "No player found.",
 	
-	"message.alreadyInTeam": "{PREFIX} §cYou are already in this §dTeam§8.",
-	"message.teamIsFull": "{PREFIX} §cThis §dTeam§c is already full§8.",
-	"message.notInGame": "{PREFIX} §4You are not §cInGame§8.",
-	"message.gameIsNotStarting": "{PREFIX} §cThe game is not starting§7.",
-	"message.gameWasAlreadySkipped": "{PREFIX} §cThe waiting time was already skipped§7.",
-	"message.gameWasSkipped": "{PREFIX} §aYou have skipped the waiting time§7.",
-	"message.notPlaying": "{PREFIX} §cYou are a spectator§7.",
-	"message.notRunning": "{PREFIX} §cThe round is not running§7.",
-	"message.notClanWars": "{PREFIX} §cThis is not a clanwars match§7.",
-	
-	"message.clanJoinedQueue": "{PREFIX} §aYour clan has joined the queue§7.",
-	"message.clanLeftQueue": "{PREFIX} §cYour clan has left the queue§7.",
-	
-	"message.notInClan": "{PREFIX} §cYou are not in an clan§7.",
-	"message.notClanLeader": "{PREFIX} §cYou are not the clan leader§7.",
-	"message.notEnoughPlayersForCw": "{PREFIX} §cYou have not selected enough members for a clanwar§7.\n§e#0# §cmembers are needed§7.",
-	
-	"message.alreadyVoted": "{PREFIX} §cYou have already voted§8.",
-	"message.voteForItemDrops": "{PREFIX} §aYou have voted for §7Item Drops§8.",
-	"message.devoteForItemDrops": "{PREFIX} §cYou have voted against §7Item Drops§8.",
-	
-	"message.bedwars.teleportingInSeconds": "{PREFIX} §7You will be teleported in §e#0# §7seconds.",
-	"message.bedwars.baseTeleportingWasCancelled": "{PREFIX} §cThe teleport was cancelled§7.",
-	
-	"message.enemyLeftGameWillEntIn": "{PREFIX} §cYour enemy has left the round§7. §cThe round will end in §e#0# #1#§7.",
+	"ui.title.settings": "§cSettings",
+	"ui.title.selectStick": "§eChoose a Stick",
 	
 	"message.sizeSmall": "{PREFIX} §cYou are now §fSMALL§8.",
 	"message.sizeNormal": "{PREFIX} §cYou are now §fNORMAL§8.",
@@ -247,11 +239,7 @@
 	"securitysystem.reason.insults": "Insults",
 	"securitysystem.reason.advertisement": "Advertisement",
 	"securitysystem.reason.spamming": "Spamming",
-	"securitysystem.reason.provocation": "Provocation",
-	
-	"securitysystem.reason.ban_bypass": "Ban Bypass",
-	"securitysystem.reason.bugusing": "Bugusing",
-	"securitysystem.reason.sexual_content": "Sexual Content",
+	"securitysystem.reason.provocation": "Provoation",
 	
 	"message.myCoins": "{PREFIX} §aYour Coins: §6#0#",
 	"message.addedCoins": "{PREFIX} §aYou have the player §e#0# §6#1# coins §agiven§8.",
@@ -267,14 +255,6 @@
 	"clanwar.game.started": "{PREFIX} §aThe game has begun§8.",
 	"clanwars.game.started.title": "§l§4ClanWars",
 	"clanwars.clan.elo.loose": "{PREFIX} §cYour clan lost the game and §e#0# Elo §cwere deducted§8.",
-	"clanwars.clan.elo.win": "{PREFIX} §aYour clan won the game and got §e#0# Elo§8.",
-	
-	"message.alivePlayers": "{PREFIX} §7There are §e#0# §7players alive.",
-	"message.hasWon": "{PREFIX} §aThe player §e#0# §ahas won§7.",
-	
-	"message.safeTimeEnding": "{PREFIX} §7The savetime is ending in §e#0# seconds§8.",
-	"message.pvpEnabled": "{PREFIX} §cPvP is now enabled§7.",
-	"message.gameEndsMinutes": "{PREFIX} §7The game ends in §e#0# minutes§7.",
-	"message.gameEndsSeconds": "{PREFIX} §7The game ends in §e#0# seconds§7."
+	"clanwars.clan.elo.win": "{PREFIX} §aYour clan won the game and got §e#0# Elo§8."
 	}
 }
