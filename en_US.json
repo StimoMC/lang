@@ -206,6 +206,9 @@
 	"message.voteForItemDrops": "{PREFIX} §aYou have voted for §7Item Drops§8.",
 	"message.devoteForItemDrops": "{PREFIX} §cYou have voted against §7Item Drops§8.",
 	
+	"message.voteForGold": "{PREFIX} §aYou have voted for §6Gold§8.",
+	"message.devoteForGold": "{PREFIX} §cYou have voted against §6Gold§8.",
+	
 	"message.bedwars.teleportingInSeconds": "{PREFIX} §7You will be teleported in §e#0# §7seconds.",
 	"message.bedwars.baseTeleportingWasCancelled": "{PREFIX} §cThe teleport was cancelled§7.",
 	
@@ -261,22 +264,22 @@
 	"securitysystem.reason.ban_bypass": "Ban Bypass",
 	"securitysystem.reason.bugusing": "Bugusing",
 	"securitysystem.reason.sexual_content": "Sexual Content",
+	"securitysystem.reason.ban_bypass": "Mute bypass",
 	
 	"message.myCoins": "{PREFIX} §aYour Coins: §6#0#",
 	"message.addedCoins": "{PREFIX} §aYou have the player §e#0# §6#1# coins §agiven§8.",
 	"message.removedCoins": "{PREFIX} §cYou have the player §e#0# §6#1# coins §cremoved§8.",
 	
-	"clanwar.queue.notInParty": "{PREFIX} §cYou are currently not in a §4Clan Party§8.\n§7Use §e/cp§7 to create a §4Clan Party§8.",
-	"clanwar.queue.notClanLeader": "{PREFIX} §cYou must be the clan leader to enter the cue§8.",
-	"clanwar.queue.alreadyInClanWar": "{PREFIX} §cYour clan is already in a ClanWar§8.",
-	"clanwar.queue.notInClan": "{PREFIX} §cYou are not in any clan§8.",
-	"clanwar.queue.notEnoughPlayers": "{PREFIX} §cThere are not enough players in the §4Clan party§8.",
-	"clanwar.queue.enemyClanFound": "{PREFIX} §aAnother clan was found§8.",
-	"clanwars.game.won": "{PREFIX} §aYour Clan has won the §4ClanWar§8.",
-	"clanwar.game.started": "{PREFIX} §aThe game has begun§8.",
-	"clanwars.game.started.title": "§l§4ClanWars",
-	"clanwars.clan.elo.loose": "{PREFIX} §cYour clan lost the game and §e#0# Elo §cwere deducted§8.",
-	"clanwars.clan.elo.win": "{PREFIX} §aYour clan won the game and got §e#0# Elo§8.",
+	"message.clanMemberWasPromoted": "{PREFIX} §aThe clan member §e#0# §awas promoted§8.",
+	"message.clanMemberWasDemoted": "{PREFIX} §cThe clan member §e#0# §cwas demoted§8.",
+	"message.clanMemberWasKicked": "{PREFIX} §cThe clan member §e#0# §cwas kicked out of the clan§8.",
+	"message.clanNotFound": "{PREFIX} §4This clan was not found§8.",
+	"message.clanInvite": "{PREFIX} §aYou got a clan invite from §e#0#§8.",
+	"message.clanInviteSent": "{PREFIX} §aYou sent a clan invite to §e#0#§8.",
+	"message.playerIsInClan": "{PREFIX} §cThis player is already in an clan§8.",
+	"message.playerIsInSameClan": "{PREFIX} §cThis player is already in your clan§8.",
+	"message.clanIsFull": "{PREFIX} §cYour clan is full§8.",
+	"message.clanWasCreated": "{PREFIX} §aYour clan §e#0#§8[§e#1#§8] §awas created§8.",
 	
 	"message.alivePlayers": "{PREFIX} §7There are §e#0# §7players alive.",
 	"message.hasWon": "{PREFIX} §aThe player §e#0# §ahas won§7.",

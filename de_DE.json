@@ -264,6 +264,7 @@
 	"securitysystem.reason.ban_bypass": "Banumgehung",
 	"securitysystem.reason.bugusing": "Bugusing",
 	"securitysystem.reason.sexual_content": "Sexuelle Inhalte",
+	"securitysystem.reason.ban_bypass": "Muteumgehung",
 	
 	"message.myCoins": "{PREFIX} §aDeine Coins: §6#0#",
 	"message.addedCoins": "{PREFIX} §aDu hast den Spieler §e#0# §6#1# Coins §agegeben§8.",
